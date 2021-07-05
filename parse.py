@@ -2,14 +2,14 @@
 
 '''
 parse each line , removing the parenthesis from the beginning and end .
-remove the quotes from beginning and end 
+remove the quotes from beginning and end
 remove comma from the end
 
 escape all characters
 
 preserve all inner parenthesis
 preserve all - characters
-store it as it is  , in raw format . 
+store it as it is  , in raw format .
 
 
 for each line , split the line into single characters and insert
@@ -23,5 +23,5 @@ clear characters at start and end of line
 # print(file1.readlines())
 import io
 with io.open("titles.txt", "r", encoding="utf-8") as my_file:
-     my_unicode_string = my_file.read() 
+     my_unicode_string = my_file.read()
      print(my_unicode_string)
