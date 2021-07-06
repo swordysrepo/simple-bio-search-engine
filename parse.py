@@ -15,10 +15,10 @@ export dictionary to json
 clear characters at start and end of line
 
 '''
-# file1 = open("titles.txt","r")
-# print(file1.readlines())
+
 import io
 import pprint
+import json
 x = 0
 # declare dict
 # hashmap = {"words":[]}
@@ -41,3 +41,5 @@ with io.open("titles.txt", "r", encoding="utf-8") as my_file:
                hashmap.update({word:[]})
 
      pprint.pprint(hashmap)
+     with open("output.json", "a") as outfile:
+         json.dump(hashmap, outfile)
