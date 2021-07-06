@@ -31,7 +31,7 @@ with io.open("titles.txt", "r", encoding="utf-8") as my_file:
           if x > 10:
                break
           # show line parsing
-          print(line)     
+          print(line)
           x+=1
           # split line to a list
           parse_list = line.split()
@@ -42,4 +42,4 @@ with io.open("titles.txt", "r", encoding="utf-8") as my_file:
      pprint.pprint(hashmap)
      with open("output.json", "a") as outfile:
           #dump dict to output file
-         json.dump(hashmap, outfile)
+        json.dump(hashmap, outfile)
