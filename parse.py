@@ -1,10 +1,6 @@
 ''' parse the titles.txt file into a json file'''
 
 '''
-parse each line , removing the parenthesis from the beginning and end .
-remove the quotes from beginning and end
-remove comma from the end
-
 escape all characters
 
 preserve all inner parenthesis

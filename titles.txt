@@ -537,7 +537,6 @@ Cytogenetic abnormalities in two new patients with Pitt-Rogers-Danks phenotype
 A case-control study of fluctuating dermatoglyphic asymmetry as a risk marker for developmental delay
 From Pitt-Rogers-Danks syndrome to Wolf-Hirschhorn syndrome. And back?
 11Q duplication in a patient with Pitt-Rogers-Danks phenotype.
-Erratum
 Fluctuating asymmetry and disorders of developmental origin
 First prenatal diagnosis of the carnitine transporter defect
 Neural tube defects and deletions of 22q11
@@ -586,7 +585,6 @@ Verbal-performance discrepancies in a family with Noonan syndrome
 Duchenne muscular dystrophy and idiopathic hyperCKemia in a family causing confusion in genetic counselling
 Ehlers-Danlos syndrome type VIII and leukodystrophy
 Segmental forms of autosomal dominant skin disorders: Different types of severity reflect different states of zygosity
-Erratum
 The Christmas present
 Chromosome 22q11.2 microdeletions in velocardiofacial syndrome patients with widely variable manifestations
 Total anonychia congenita and microcephaly with normal intelligence: A new autosomal-recessive syndrome?
@@ -1848,8 +1846,6 @@ Description of a large kindred with autosomal dominant inheritance of branchial 
 Congenital diaphragmatic defects and associated syndromes, malformations, and chromosome anomalies: A retrospective study of 60 patients and literature review
 Study on mutations affecting the muscle promoter/first exon of the dystrophin gene in 92 Japanese dilated cardiomyopathy patients
 What's in a name?
-Erratum
-Erratum
 Introduction to Overgrowth syndromes
 Perspectives on Overgrowth syndromes
 Vignettes from the history of overgrowth and related syndromes
@@ -2218,7 +2214,6 @@ Evidence for bilineal inheritance of physiological indicators of risk in childho
 Psychosocial competence of unselected young adults with sex chromosome abnormalities
 Application of life table analysis to the onset of dementia in a genetically informative design
 Apolipoprotein E alleles in childhood-onset schizophrenia
-Erratum
 New type of synpolydactyly of hands and feet in two unrelated males
 Elevated ambulatory blood pressure in 20 subjects with Williams syndrome
 Duplication within chromosome 5q characterized by fluorescence in situ hybridization
@@ -2936,7 +2931,6 @@ Silver-Russell syndrome and cystic fibrosis associated with maternal uniparental
 Complex chromosomal translocation in a patient with Kallmann syndrome
 Human homologue of the murinebare patches/striated gene is not mutated in incontinentia pigmenti type 2
 Genetic association study between ? 1-antichymotrypsin polymorphism and Alzheimer disease in Chinese Han population
-
 Novel polymorphisms of the human cholecystokinin a receptor gene: An association analysis with schizophrenia
 Familial association between allergic disorders and depression in adult Finnish twins
 Bipolar disorder and variation at a common polymorphism (A1832G) within exon 8 of the Wolfram gene
@@ -3153,7 +3147,7 @@ Locomotor adaptations reflected in the wrist joints of early tertiary primates (
 Construction and use of an inexpensive “anthropometer”
 Sampling location in cortical bone histology
 Erratum: Yoshinaga J et al. (1996) Stable carbon and nitrogen isotopic composition of diet and hair of Gidra-speaking Papuans. Am. J. Phys. Anthropol. 100:23–34 (1996)
-Antiferroelectric superstructures of Pb              <sub/>2</sub>              MgWO              <sub/>6</sub>
+Antiferroelectric superstructures of Pb <sub/>2</sub> MgWO <sub/>6</sub>
 Phytolith analysis on dental calculus, enamel surface, and burial soil: Information about diet and paleoenvironment
 Anemia, genetic diseases, and malaria in prehistoric mainland southeast Asia
 Transverse (Harris) lines in irish archaeological remains
@@ -3234,7 +3228,6 @@ Subnasoalveolar anatomy and hominoid phylogeny: Evidence from comparative ontoge
 Nuciruptor rubricae, a new Pitheciin seed predator from the Miocene of Colombia
 Skeleton keys: An introduction to human skeletal morphology, development, and analysis.
 Race and other misadventures: Essays in honor of Ashley Montagu in his ninetieth year
-Erratum
 Genetic origins of the Japanese: A partial support for the dual structure hypothesis
 Dental emergence among urban Zambian school children: An assessment of the accuracy of three methods in assigning ages
 Characteristic high- and low-frequency dental traits in sub-Saharan African populations
@@ -3344,7 +3337,6 @@ Comparative review of the human bony labyrinth
 Human adaptation to high altitude: Regional and life-cycle perspectives
 Stature estimation and calibration: Bayesian and maximum likelihood perspectives in physical anthropology
 Environmental hypotheses of hominin evolution
-Preface
 Program of the sixty-seventh annual meeting of the American Association of Physical Anthropologists
 Abstracts of podium and poster presentations: Sixty-seventh annual meeting of the American Association of Physical Anthropologists
 Abstracts of podium and poster presentations: Sixty-seventh annual meeting of the American Association of Physical Anthropologists
@@ -3496,7 +3488,6 @@ Brief communication: Twentieth-century replication of an Egyptian mummy: Implica
 ERRATUM: Beall CM, Brittenham GM, Strohl KP, Blangero J, Williams-Blangero S, Goldstein MC, Decker MJ, Vargas E, Villena M, Soria R, Alarcon AM, and Gonzales C (1998) Hemoglobin Concentration of High-altitude Tibetans and Bolivian Aymara. Am. J. Phys. Anthropol. 106:385–400.
 Proceedings of the sixty-seventh meeting of the American Association of Physical Anthropologists
 American association of physical anthropologists constitution and by-laws
-Preface
 Evolution of coalitionary killing
 Quantitative trait linkage mapping in anthropology
 Craniofacial morphology of the first Americans: Pattern and process in the peopling of the New World
@@ -4571,8 +4562,6 @@ CD4 and CD8 coexpressed T-lymphocytosis in adult onset Still's disease
 Vancomycin-induced thrombocytopenia
 Transient cytomegalovirus-induced hemolysis in an immunocompetent woman
 Decreased expression of the Fas ligand on peripheral blood mononuclear cells and undetectable levels of soluble Fas ligand in the serum of patients with aplastic anemia and myelodysplastic syndrome
-Errata
-Errata
 Effects of glucocorticoids and mineralocorticoids on proliferation and maturation of human peripheral blood stem cells
 Clonal identities and multiple isotype transcripts in hematological diseases revealed by a single-strand conformation polymorphism analysis of the immunoglobulin heavy chain messenger signals
 Minimal evidence of platelet and endothelial cell reactive antibodies in thrombotic thrombocytopenic purpura
@@ -4713,7 +4702,7 @@ Opportunities for chiral agrochemicals
 Preparation of (R)-2-(4-hydroxyphenoxy) propionic acid by biotransformation
 Natural products as pesticides: Two examples of stereoselective synthesis
 Sterols that modify moulting in insects
-Ortho              -aminoacetophenone, a non-lethal repellent: The effect of volatile cues              vs.              direct contact on avoidance behavior by rodents and birds
+Ortho -aminoacetophenone, a non-lethal repellent: The effect of volatile cues vs. direct contact on avoidance behavior by rodents and birds
 Calibrating the pesticide capture efficiency of passive dosimeters
 Fumigant toxicity is the major route of insecticidal activity of citruspeel essential oils
 Investigation of single and joint fumigant insecticidal action of citruspeel oil components
@@ -4721,85 +4710,85 @@ Molecular biology as virtual biology: Limitations of molecular biology in pestic
 Exposure of four Filipino farmers to parathion-methyl while spraying string beans
 Stereochemical basis for the insecticidal activity of carbamoylated and acylated pyrazolines
 Some physicochemical and environmental factors affecting transformation rates and sorption of the herbicide metamitron in soil
-Encasement of              Erysiphe graminis              haustoria after treatment with bromuconazole
+Encasement of Erysiphe graminis haustoria after treatment with bromuconazole
 Synthesis and herbicidal activity of 1,4-benzoxazin-3-one sulfonylureas
 Estimating benzimidazole residues in thatch and turfgrass by bioassay
 Pharmacokinetics of fenvalerate after intravenous administration to sheep
 Transformation of fenuron induced by photochemical excitation of humic acids
 Experiences derived from the Carabid Beetle Laboratory Test
 Dihydrooxadiazines: Octopaminergic system as a potential site of insecticidal action
-Effects of interactions between host plants and selective insecticides on larvae of              Plutella xylostella              L. (Lepidoptera: Yponomeutidae) in the laboratory
-Comparative laboratory evaluation of the acute and chronic toxicology of diflubenzuron, hexaflumuron and teflubenzuron against II instar desert locust (              Schistocerca gregaria              ) (Orthoptera: Acrididae)
-The effects of the duration of exposure on the toxicity of diflubenzuron, hexaflumuron and teflubenzuron to various stages of II instar              Schistocerca gregaria
+Effects of interactions between host plants and selective insecticides on larvae of Plutella xylostella L. (Lepidoptera: Yponomeutidae) in the laboratory
+Comparative laboratory evaluation of the acute and chronic toxicology of diflubenzuron, hexaflumuron and teflubenzuron against II instar desert locust ( Schistocerca gregaria ) (Orthoptera: Acrididae)
+The effects of the duration of exposure on the toxicity of diflubenzuron, hexaflumuron and teflubenzuron to various stages of II instar Schistocerca gregaria
 Effect of Adjuvants on the Therapeutic Activity of Dimethomorph in Controlling Vine Downy Mildew. I. Survey of Adjuvant Types
 Effect of Adjuvants on the Therapeutic Activity of Dimethomorph in Controlling Vine Downy Mildew. II. Adjuvant Mixtures, Outdoor-Hardened Vines and One-Pack Formulations
 The Persistence and Fate of Malathion Residues in Stored Beans (Phaseolusvulgaris) and Maize (Zeamays)
-Structural Effects of              N              -Arylcarbamoylpyrazolines on Calcium Uptake in Rat Brain Synaptosomes
+Structural Effects of N -Arylcarbamoylpyrazolines on Calcium Uptake in Rat Brain Synaptosomes
 Synthesis and Herbicidal Activity of Substituted Tetrahydronaphthalenes (Part II)
 Heterocyclic Insecticides Acting at the GABA-Gated Chloride Channel: 5-Alkyl-2-arylpyrimidines and -1,3-thiazines
 Cholinergic Activity of Selected Methanesulfonate Insecticides. A Pharmacological Profile
 Targeting of Cationic Liposomes to Skin-Associated Bacteria
 Investigation of the Mode of Action of Nematode Neuropeptides
 Glutathione Transferase Activities and Herbicide Selectivity in Maize and Associated Weed Species
-The Effects of a Synthetic Putrescine Analogue on Germling Development in              Uromyces viciae-fabae
-Molecular Analysis of Azole Fungicide Resistance in a Mutant of              Ustilago maydis
+The Effects of a Synthetic Putrescine Analogue on Germling Development in Uromyces viciae-fabae
+Molecular Analysis of Azole Fungicide Resistance in a Mutant of Ustilago maydis
 The Use of Artificial Neural Networks to Model Plant-Environment Interactions
 Continuum Regression: Optimised Prediction of Biological Activity
-An Investigation into Chlorotoluron Resistance in Blackgrass (\u2009              Alopecurus myosuroides              )
+An Investigation into Chlorotoluron Resistance in Blackgrass (\u2009 Alopecurus myosuroides )
 A Study of Antagonism Between the Herbicide Phenmedipham and Ozone Pollution in Sugarbeet
 Involvement of Human Cytochrome P450 3A4 in the metabolism of Vamidothion
-Resistance to Antifungal Azoles in              Ustilago maydis              through Alteration of Sterol Δ              <sup>5(6)</sup>              Desaturase
-Role of Sterol Δ              <sup>5(6)</sup>              Desaturase in Azole Antifungal Mode of Action and Resistance
-Effect of Formulation and Application Method on the Efficacy of Aerial and Submerged Conidia of              Metarhizium flavoviride              for Locust and Grasshopper Control
-Synthesis and Mosquito Repellent Properties of 2,2-Dialkyl- and 2-Alkyl-4,4-dimethyl-              N              -acetyloxazolidines
+Resistance to Antifungal Azoles in Ustilago maydis through Alteration of Sterol Δ <sup>5(6)</sup> Desaturase
+Role of Sterol Δ <sup>5(6)</sup> Desaturase in Azole Antifungal Mode of Action and Resistance
+Effect of Formulation and Application Method on the Efficacy of Aerial and Submerged Conidia of Metarhizium flavoviride for Locust and Grasshopper Control
+Synthesis and Mosquito Repellent Properties of 2,2-Dialkyl- and 2-Alkyl-4,4-dimethyl- N -acetyloxazolidines
 Effects of Two Triazole Seed Treatments, Triticonazole and Triadimenol, on Growth and Development of Wheat
-Synergism by Propynyl Aryl Ethers in Permethrin-Resistant Tobacco Budworm Larvae,              Heliothis virescens
+Synergism by Propynyl Aryl Ethers in Permethrin-Resistant Tobacco Budworm Larvae, Heliothis virescens
 Non-Equilibrium Sorption during the Movement of Pesticides in Soils
 A Rapid Method for Screening Insecticides in the Laboratory
 Adjuvant Effects on the Therapeutic Control of Potato Late Blight by Dimethomorph Wettable Powder Formulations
 Investigations on the Behaviour of Fenpropimorph and its Metabolite Fenpropimorphic Acid in Soils
-Changes in Lipid Composition After              In-Vitro              Selection for Glyphosate Tolerance in Tobacco
+Changes in Lipid Composition After In-Vitro Selection for Glyphosate Tolerance in Tobacco
 Leaching of Methyl Isothiocyanate in Plainfield Sand Chemigated with Metam-Sodium
-Phenmedipham-Ozone Pollution Interactions in Sugarbeet (              Beta vulgaris              L. cv. Saxon): A Physiological Study
-Enhanced Mineralization of [              <sup>14</sup>              C]Atrazine in              Kochia scoparia              Rhizospheric Soil from a Pesticide-Contaminated Site
+Phenmedipham-Ozone Pollution Interactions in Sugarbeet ( Beta vulgaris L. cv. Saxon): A Physiological Study
+Enhanced Mineralization of [ <sup>14</sup> C]Atrazine in Kochia scoparia Rhizospheric Soil from a Pesticide-Contaminated Site
 Effect of Hydrogen Cyanide and Carbonyl Sulphide on the Germination and Plumule Vigour of Wheat
-Effect of Clerodane-Type Diterpenoids Isolated from              Salvia              spp. on the Feeding Behaviour of              Spodoptera littoralis
+Effect of Clerodane-Type Diterpenoids Isolated from Salvia spp. on the Feeding Behaviour of Spodoptera littoralis
 Influence of Pesticides on UDP-glucuronosyltransferase in Rat Liver Microsomes
 Foliar Persistence and Residual Activity of Tebufenozide Against Spruce Budworm Larvae
 SWAT-A Semi-empirical Model to Predict Concentrations of Pesticides Entering Surface Waters from Agricultural Land
-Biotransformation of the Insecticide Lindane by the White Rot Basidiomycete              Phanerochaete              chrysosporium
+Biotransformation of the Insecticide Lindane by the White Rot Basidiomycete Phanerochaete chrysosporium
 Efficacy of Surface Dust Treatments of Pirimiphos-Methyl and Etrimfos when Applied to Commercially Stored Wheat and Barley
-The Importance of Rhizosphere Interactions in the Biological Control of Plant Parasitic Nematodes-a Case Study using              Verticillium chlamydosporium
+The Importance of Rhizosphere Interactions in the Biological Control of Plant Parasitic Nematodes-a Case Study using Verticillium chlamydosporium
 Bentazone Leaching in Spanish Soils
 Nematodes and Plant Health: Legislation and Sampling Strategies in Decision Making for Nematode Management
 Serologically Based Diagnostic and Quantification Tests for Nematodes
 The Basis of Predictive Modelling for Estimating Yield Loss and Planning Potato Cyst Nematode Management
 The Exploitation of Nematode-Responsive Plant Genes in Novel Nematode Control Methods
 Dimethoxypyrimidines as Novel Herbicides. Part 1. Synthesis and Herbicidal Activity of Dimethoxyphenoxyphenoxypyrimidines and Analogues
-Dimethoxypyrimidines as Novel Herbicides. Part 2. Synthesis and Herbicidal Activity of              O              -Pyrimidinylsalicylates and Analogues
+Dimethoxypyrimidines as Novel Herbicides. Part 2. Synthesis and Herbicidal Activity of O -Pyrimidinylsalicylates and Analogues
 Studies of the New Herbicide KIH-6127. Part I. Novel Synthesis of Methyl 6-Acetylsalicylate as a Key Synthetic Intermediate for the Preparation of 6-Acetyl Pyrimidin-2-yl Salicylates and Analogues
 Induction and Transfer of Enhanced Biodegradation of the Herbicide Napropamide in Soils
 A System to Measure Viscosities of Spray Mixtures at High Shear Rates
 Design of Inhibitors of Photosystem II using a Model of the D1 Protein
 Biological Activity of a Furanyl Anti-Juvenile Hormonal Compound on Triatomine Larvae
-Repellent and Oviposition-Deterring Effects of Hop Beta-Acids on the Two-Spotted Spider Mite              Tetranychus urticae
+Repellent and Oviposition-Deterring Effects of Hop Beta-Acids on the Two-Spotted Spider Mite Tetranychus urticae
 Concentration-Dependent Mobility of Chlorfenvinphos in Isolated Plant Cuticles
-Glutathione Depletion and Insecticide Synergism in              Triatoma infestans              produced by the Butyl Ester of Buthionine Sulfoximine
-Chlorotoluron Metabolism in Leaves of Resistant and Susceptible Biotypes of the Grass Weed              Alopecurus myosuroides
+Glutathione Depletion and Insecticide Synergism in Triatoma infestans produced by the Butyl Ester of Buthionine Sulfoximine
+Chlorotoluron Metabolism in Leaves of Resistant and Susceptible Biotypes of the Grass Weed Alopecurus myosuroides
 Recent Developments in the Mode of Action of Fungicides
 <b>Mode of Action of the Novel Rice Blast Fungicide KTU 3616</b>
 <b>2-Arylpyrroles: A New Class of Insecticide. Structure, Activity and Mode of Action</b>
-Book Review:              <b>Natural and engineered pest management agents. ACS Symposium Series No 551,</b>              ed. P. A. Hedin, J. J. Menn & R. M. Hollingworth, American Chemical Society, Washington DC, 1994, xvi+552 pp., ISBN 0 8412 2773 X
-Book Review:              <b>Bioremediation through rhizosphere technology. ACS Symposium Series No 563,</b>              ed. Todd A. Anderson & Joel R. Coats, American Chemical Society, Washington DC, 1994, xii+249 pp., ISBN 0 8412 2942 2
-Book Review:              <b>Advances in the chemistry of insect control III,</b>              ed. G. G. Briggs, Royal Society of Chemistry, Cambridge, UK, 1994, vi+250 pp., ISBN 0 85186 992 0
-Nerve Insensitivity to              cis              -Cypermethrin is Expressed in Adult              Heliothis virescens
+Book Review: <b>Natural and engineered pest management agents. ACS Symposium Series No 551,</b> ed. P. A. Hedin, J. J. Menn & R. M. Hollingworth, American Chemical Society, Washington DC, 1994, xvi+552 pp., ISBN 0 8412 2773 X
+Book Review: <b>Bioremediation through rhizosphere technology. ACS Symposium Series No 563,</b> ed. Todd A. Anderson & Joel R. Coats, American Chemical Society, Washington DC, 1994, xii+249 pp., ISBN 0 8412 2942 2
+Book Review: <b>Advances in the chemistry of insect control III,</b> ed. G. G. Briggs, Royal Society of Chemistry, Cambridge, UK, 1994, vi+250 pp., ISBN 0 85186 992 0
+Nerve Insensitivity to cis -Cypermethrin is Expressed in Adult Heliothis virescens
 Fumigant Toxicity of Citruspeel Oils against Adult and Immature Stages of Storage Insect Pests
 Monitoring the Exposure of Barn Owls to Second-Generation Rodenticides in Southern Eire
 Aerobic Metabolism of Flupropacil in Sandy Loam Soil
-A Reliable Method for Testing the Sensitivity of              Botryotinia fuckeliana              to Anilinopyrimidines              In Vitro
+A Reliable Method for Testing the Sensitivity of Botryotinia fuckeliana to Anilinopyrimidines In Vitro
 Ring Test with the Models LEACHP, PRZM-2 and VARLEACH: Variability between Model Users in Prediction of Pesticide Leaching Using a Standard Data Set
 Antimycotic Screening of 58 Malaysian Plants against Plant Pathogens
-1-Octanol/Water Partition Coefficient (K              <sub/>ow</sub>              ) and pK              <sub/>a</sub>              for Ionisable Pesticides Measured by apH-Metric Method
+1-Octanol/Water Partition Coefficient (K <sub/>ow</sub> ) and pK <sub/>a</sub> for Ionisable Pesticides Measured by apH-Metric Method
 A Field Bioassay Approach to Assess the Toxicity of Insecticide Residues on Soil to Collembola
 Quinone Binding Sites of Membrane Proteins as Targets for Inhibitors
 Extended Summary SCI Pesticides Group Symposium Interference with the Structure and Function of Biological Membranes
@@ -4821,14 +4810,14 @@ Rapid Onset of the Accelerated Degradation of Dicarboximide Fungicides in a UK S
 Book Review: Synthesis and chemistry of agrochemicals IV, ed. Don R. Baker, Joseph G. Fenyes & Gregory S. Basarab, American Chemical Society, Washington DC, 1995, xiv+490 pp., price US$129.95. ISBN 0 8412 3091 9
 Enhanced Degradation of the Fungicide Vinclozolin: Isolation and Characterisation of a Responsible Organism
 Studies on the Absorption, Residues and Metabolism of Cyromazine in Tomatoes
-Synthesis and Insecticidal Activity of Some New 3-[4(3              H              )-Quinazolinone-2-(yl)thiomethyl]-1,2,4- triazole-5-thiols
+Synthesis and Insecticidal Activity of Some New 3-[4(3 H )-Quinazolinone-2-(yl)thiomethyl]-1,2,4- triazole-5-thiols
 Model Predictions and Field Measurements of Chlorsulfuron Leaching under Non-steady-state Flow Conditions
 The Validation of Pesticide Leaching Models
-Lethal and Sublethal Effects of Imidacloprid on Nicotine-Tolerant              Myzus nicotianae              and              Myzus persicae
+Lethal and Sublethal Effects of Imidacloprid on Nicotine-Tolerant Myzus nicotianae and Myzus persicae
 The Effect on Soil Fertility of Repeated Applications of Pesticides over 20 Years
 Phototransformation of Dichlorophen in Aqueous Phase
 The Kinetics of Insecticide Action. Part V: Deterministic Models to Simulate the Movement of Pesticide from Discrete Deposits and to Predict Optimum Deposit Characteristics on Leaf Surfaces for Control of Sedentary Crop Pests
-Evidence for Resistance to              Bacillus thuringiensis              (              Bt              ) subsp.              kurstaki              HD-1,              Bt              subsp.              aizawai              and Abamectin in Field Populations of              Plutella xylostella              from Malaysia
+Evidence for Resistance to Bacillus thuringiensis ( Bt ) subsp. kurstaki HD-1, Bt subsp. aizawai and Abamectin in Field Populations of Plutella xylostella from Malaysia
 Book Review: ACS Symposium series 589. Computer-aided molecular design. Applications in agrochemicals, materials and pharmaceuticals, ed. Charles H. Reynolds, M. Katharine Holloway & Harold K. Cox, American Chemical Society, Washington DC, 1995, x+428 pag
 Book Review: ACS Symposium series 595. Biorational pest control agents-Formulation and delivery, ed. F. R. Hall & J. W. Barry, American Chemical Society, Washington DC, 1995, xii+306 pp., price US$84.95. ISBN 0-8412-3226-1
 A Field Test of Root Zone Water Quality Model-Pesticide and Bromide Behavior
@@ -4840,103 +4829,103 @@ In-vitro Metabolism of a Novel Monocrotophos Derivative by Rat and Japanese Quai
 Biodegradation of the Organophosphate Insecticide Coumaphos in Highly Contaminated Soils and in Liquid Wastes
 Leaching of Alachlor from Alginate-Encapsulated Controlled-Release Formulations
 Synthesis and Structure-Activity Relationships of Miticidal 4,5-Dihydropyrazole-5-thiones
-The Pyrethrins and Related Compounds. Part XLI. Structure-Activity Relationships in Non-ester Pyrethroids against Resistant Strains of Housefly (              Musca domestica              L.)
+The Pyrethrins and Related Compounds. Part XLI. Structure-Activity Relationships in Non-ester Pyrethroids against Resistant Strains of Housefly ( Musca domestica L.)
 Imazaquin Spray Retention, Foliar Washoff and Runoff Losses under Simulated Rainfall
 The Synthesis and Insecticidal Activity of a Series of 2-Aryl-1,2,3-triazoles
 Book Review: Data analysis for chemists, David Livingstone, Oxford Science Publications, Oxford University Press, UK, 1995, xvi+239 pp., price UK£40.00. ISBN 0-19-855728-0
 Book Review: ACS Symposium series 582. Allelopathy: Organisms, processes, and applications, ed. Inderjit, K. M. M. Dakshini & F. A. Einhellig, American Chemical Society, Washington DC, 1995, x+381 pp., price US$99.95. ISBN 0 8412 3061 7
 Book Review: ACS Symposium series 559. Porphyric pesticides: Chemistry, toxicology and pharmaceutical applications, ed. S. O. Duke & C. A. Rebeiz, American Chemical Society, Washington DC, 1994, x+317 pp., price US$79.95. ISBN 0 8412 2923 6
-Toxicity of Mixtures of              Bacillus thuringiensis              with Endosulfan and Other Insecticides to the Cotton Boll Worm              Helicoverpa armigera
+Toxicity of Mixtures of Bacillus thuringiensis with Endosulfan and Other Insecticides to the Cotton Boll Worm Helicoverpa armigera
 Effect of the Volume Rate of Application on the Glasshouse Performance of Crop Protection Agent/Adjuvant Combinations
 Analysis of Fenoxaprop-Ethyl and Fenoxaprop in Drinking Water Using Solid-Phase Extraction and Ion-Pair HPLC
 Preferential Flow Pathways and Their Capacity to Transport Isoproturon in a Structured Clay Soil
-Resistance to Sterol Demethylation Inhibitors in              Ustilago maydis              . III. Cross-Resistance Patterns and Sterol Analyses
+Resistance to Sterol Demethylation Inhibitors in Ustilago maydis . III. Cross-Resistance Patterns and Sterol Analyses
 Phototransformation of Triadimefon on Glass and Soil Surfaces
 Evidence for the Accelerated Degradation of Isoproturon in Soils
-Laboratory Evaluation of the Novel Naturally Derived Compound Spinosad against              Ceratitis              capitata
+Laboratory Evaluation of the Novel Naturally Derived Compound Spinosad against Ceratitis capitata
 Review: Approaches to New Parasiticides
-The Potential of Semiochemicals for Control of              Phorodon humuli              (Homoptera: Aphididae)
-Characterization and Inhibitor Studies of Chitinases from a Parasitic Blowfly (              Lucilia cuprina              ), a Tick (              Boophilus microplus              ), an Intestinal Nematode (              Haemonchus contortus              ) and a Bean (              Phaseolus vulgaris              )
+The Potential of Semiochemicals for Control of Phorodon humuli (Homoptera: Aphididae)
+Characterization and Inhibitor Studies of Chitinases from a Parasitic Blowfly ( Lucilia cuprina ), a Tick ( Boophilus microplus ), an Intestinal Nematode ( Haemonchus contortus ) and a Bean ( Phaseolus vulgaris )
 Screening Test for Insecticides Interfering with Cuticular Sclerotization
 Stability and Biological Activity of Cyfluthrin Isomers
-Multiple Resistance in the Larger House Fly              Musca domestica              in Germany
-Anthelmintic Actions of the Cyclic Depsipeptide PF1022A and its Electrophysiological Effects on Muscle Cells of              Ascaris suum
-Synthesis and Anthelmintic Activity of 7-Hydroxy- 5-oxo-5              H              -thieno[3,2-              b              ]pyran-6-carboxanilides and -6-thiocarboxanilides
+Multiple Resistance in the Larger House Fly Musca domestica in Germany
+Anthelmintic Actions of the Cyclic Depsipeptide PF1022A and its Electrophysiological Effects on Muscle Cells of Ascaris suum
+Synthesis and Anthelmintic Activity of 7-Hydroxy- 5-oxo-5 H -thieno[3,2- b ]pyran-6-carboxanilides and -6-thiocarboxanilides
 Acylated 1,3-Aminopropanols as Repellents against Bloodsucking Arthropods
-Binding Sites for Ca              <sup>2+</sup>              -Channel Effectors and Ryanodine in              Periplaneta americana-              Possible Targets for New Insecticides
-Presence of Muscarinic Acetylcholine Receptors in the Cattle Tick              Boophilus microplus              and in Epithelial Tissue Culture Cells of              Chironomus tentans
+Binding Sites for Ca <sup>2+</sup> -Channel Effectors and Ryanodine in Periplaneta americana- Possible Targets for New Insecticides
+Presence of Muscarinic Acetylcholine Receptors in the Cattle Tick Boophilus microplus and in Epithelial Tissue Culture Cells of Chironomus tentans
 Ionophore and Anthelmintic Activity of PF 1022A, a Cyclooctadepsipeptide, Are Not Related
-Activity of Soil Insecticides on Eggs of              Diabrotica undecimpunctata howardi:              Effects on Embryological Development and Influence of Egg Age
+Activity of Soil Insecticides on Eggs of Diabrotica undecimpunctata howardi: Effects on Embryological Development and Influence of Egg Age
 Differential Metal Binding Interactions of the Imidazolinones Revealed by NMR and UV Spectroscopy
 Use of Graph-Theoretical Parameters to Predict Activity of Organosilane Insecticides
 Adhesive Systems for Pesticide Delivery Through Plant Stems
-Inhibition of Methionine Biosynthesis in              Botrytis cinerea              by the Anilinopyrimidine Fungicide Pyrimethanil
-Persistence of              Metarhizium flavoviride              and Consequences for Biological Control of Grasshoppers and Locusts
+Inhibition of Methionine Biosynthesis in Botrytis cinerea by the Anilinopyrimidine Fungicide Pyrimethanil
+Persistence of Metarhizium flavoviride and Consequences for Biological Control of Grasshoppers and Locusts
 Liquid and Gas Chromatographic Multi-residue Pesticide Determination in Animal Tissues
 Influence of Compost Addition to Soil on the Behaviour of Herbicides
-Studies of the New Herbicide KIH-6127. Part III. Synthesis and Structure-Activity Studies of Analogues of KIH-6127 against Barnyard Grass (              Echinochloa oryzicola              )*
+Studies of the New Herbicide KIH-6127. Part III. Synthesis and Structure-Activity Studies of Analogues of KIH-6127 against Barnyard Grass ( Echinochloa oryzicola )*
 Preparation of Novel Hexythiazox Analogues
-Degradation of [              <sup>14</sup>              C]Terbuthylazine and [              <sup>14</sup>              C]Atrazine in Laboratory Soil Microcosms
-Communication to the Editor Insecticide Resistance in a Strain of              Aphis gossypii              from Southern France
-<b>Biology and management of rice insects,</b>              ed. E. A. Heindrichs, John Wiley and Sons, Ltd, Chichester, 1994, x+779 pp., price £69.00. ISBN 0-470-21814-2
-<b>Pasture doctor: a guide to diagnosing problems in pastures.</b>              J. Millar, Butterworth-Heinemann, Oxford, 1995, ix+62 pp., price £11.99 ISBN 0 7506 8930 7
-<b>National Rivers Authority Water Quality Series No. 26: Pesticides in the aquatic environment,</b>              ed. National Centre for Toxic and Persistent Substances (TAPS), HMSO, London, 1995, x+92 pp., price (UK) £25.00 ISBN 0 113101 01 5
+Degradation of [ <sup>14</sup> C]Terbuthylazine and [ <sup>14</sup> C]Atrazine in Laboratory Soil Microcosms
+Communication to the Editor Insecticide Resistance in a Strain of Aphis gossypii from Southern France
+<b>Biology and management of rice insects,</b> ed. E. A. Heindrichs, John Wiley and Sons, Ltd, Chichester, 1994, x+779 pp., price £69.00. ISBN 0-470-21814-2
+<b>Pasture doctor: a guide to diagnosing problems in pastures.</b> J. Millar, Butterworth-Heinemann, Oxford, 1995, ix+62 pp., price £11.99 ISBN 0 7506 8930 7
+<b>National Rivers Authority Water Quality Series No. 26: Pesticides in the aquatic environment,</b> ed. National Centre for Toxic and Persistent Substances (TAPS), HMSO, London, 1995, x+92 pp., price (UK) £25.00 ISBN 0 113101 01 5
 Insects: chemical, physiological and environmental aspects 1994, ed. D. Konopinska, G. Goldsworthy, R. J. Nachman, J. Nawrot, I. Orchard, G. Rosinski & W. Sobotka, Wydawnictwo Uniwersytetu Wroclawskiego, Wroclaw, Poland, 1995, 350 pp., price US$60.00. ISB
-A Diclofop-methyl-Resistant              Avena sterilis              Biotype with a Herbicide-Resistant Acetyl-coenzyme A Carboxylase and Enhanced Metabolism of Diclofop-methyl
+A Diclofop-methyl-Resistant Avena sterilis Biotype with a Herbicide-Resistant Acetyl-coenzyme A Carboxylase and Enhanced Metabolism of Diclofop-methyl
 Photolysis of Diniconazole-M under Sunlight
-Effectiveness of Carvacrol Derived from              Thujopsis dolabrata              var.              hondai              Sawdust against              Thecodiplosis japonensis              (Diptera: Cecidomyiidae)
+Effectiveness of Carvacrol Derived from Thujopsis dolabrata var. hondai Sawdust against Thecodiplosis japonensis (Diptera: Cecidomyiidae)
 The Synthesis and Fungicidal Activity of 2-Substituted 1-Azol-1-ylmethyl-6-arylidenecyclohexanols
-Pymetrozine, a Fast-Acting and Selective Inhibitor of Aphid Feeding.              In              -              situ              Studies with Electronic Monitoring of Feeding Behaviour
-Effect of Mono-oxygenase Inhibitors on Uptake, Metabolism and Phytotoxicity of Propanil in Resistant Biotypes of Jungle-Rice,              Echinochloa Colona
-Synthesis and Evaluation of New Ethyl 2,3- Dihydro-3-oxoisothiazolo[5,4-              b              ]pyridine- 2-alkanoate Derivatives as Potential Herbicides
+Pymetrozine, a Fast-Acting and Selective Inhibitor of Aphid Feeding. In - situ Studies with Electronic Monitoring of Feeding Behaviour
+Effect of Mono-oxygenase Inhibitors on Uptake, Metabolism and Phytotoxicity of Propanil in Resistant Biotypes of Jungle-Rice, Echinochloa Colona
+Synthesis and Evaluation of New Ethyl 2,3- Dihydro-3-oxoisothiazolo[5,4- b ]pyridine- 2-alkanoate Derivatives as Potential Herbicides
 Kinetics of Uptake and Metabolism of Atrazine in Model Plant Systems
 Enhancement of Carbofuran Degradation by Soil Enrichment Cultures, Bacterial Cultures and by Synergistic Interaction among Bacterial Cultures
-Biotransformation of              s              -Triazine Herbicides and Related Degradation Products in Liquid Cultures by the White Rot Fungus              Phanerochaete chrysosporium
-Accumulation and Elimination Kinetics of Herbicides Butachlor, Thiobencarb and Chlomethoxyfen by              Aristichthys nobilis
+Biotransformation of s -Triazine Herbicides and Related Degradation Products in Liquid Cultures by the White Rot Fungus Phanerochaete chrysosporium
+Accumulation and Elimination Kinetics of Herbicides Butachlor, Thiobencarb and Chlomethoxyfen by Aristichthys nobilis
 Ecological Considerations in Pesticide Risk Assessment for Aquatic Ecosystems
 Development and Use of Environmental Quality Standards (EQSs) for Priority Pesticides
-Effect of Neurotoxic Pesticides on the Feeding Rate of Marine Mussels (              Mytilus edulis              )
+Effect of Neurotoxic Pesticides on the Feeding Rate of Marine Mussels ( Mytilus edulis )
 Extended Summary SCI Pesticides Group Meeting Ecotoxicology of Organic Compounds in the Aquatic Environment
 Review A Review of the Mechanisms Involved in the Action of Phosphine as an Insecticide and Phosphine Resistance in Stored-Product Insects
-Effect of Phenylpyrroles on Glycerol Accumulation and Protein Kinase Activity of              Neurospora crassa
+Effect of Phenylpyrroles on Glycerol Accumulation and Protein Kinase Activity of Neurospora crassa
 Accelerated Degradation and Mineralization of Atrazine in Surface and Subsurface Soil Materials
 The Use of Grassed Buffer Strips to Remove Pesticides, Nitrate and Soluble Phosphorus Compounds from Runoff Water
-Apparent Tolerance of a Field-Collected Strain of              Myzus nicotianae              to Imidacloprid due to Strong Antifeeding Responses
+Apparent Tolerance of a Field-Collected Strain of Myzus nicotianae to Imidacloprid due to Strong Antifeeding Responses
 Degradation of Diuron Photoinduced by Iron(III) in Aqueous Solution
 Muscarinic Agonists as Insecticides and Acaricides
-Dinitroaniline Herbicide Cross-Resistance in Resistant              Setaria italica              Lines Selected from Interspecific Cross with              S              .              viridis
+Dinitroaniline Herbicide Cross-Resistance in Resistant Setaria italica Lines Selected from Interspecific Cross with S . viridis
 Uptake of Triticonazole, during Imbibition, by Wheat Caryopses after Seed Treatment
 Phase 1 and 2 Metabolism in Freshly Isolated Hepatocytes and Subcellular Fractions from Rat, Mouse, Chicken and Ox Livers
 Extended Summary Drug and Pesticide Metabolism II: New Approaches in Metabolism and Toxicology of Agro- and Industrial Chemicals
-Communication to the Editor Degradation of Bromoxynil, Ioxynil, Dichlobenil and their Mixtures by              Agrobacterium radiobacter              8/4
-Communication to the Editor Protection of Wood against the House Longhorn Beetle              Hylotrupes bajulus              with Sodium Chloride and Potassium Chloride
+Communication to the Editor Degradation of Bromoxynil, Ioxynil, Dichlobenil and their Mixtures by Agrobacterium radiobacter 8/4
+Communication to the Editor Protection of Wood against the House Longhorn Beetle Hylotrupes bajulus with Sodium Chloride and Potassium Chloride
 Pharmacokinetics of Intravenous Fenvalerate in Cattle Treated Topically with a Low Dose of Piperonyl Butoxide
 Sites of Action of Noncompetitive GABA Antagonists in Houseflies and Rats: Three-Dimensional QSAR Analysis
 Resistance Mechanism of Propanil-Resistant Barnyardgrass: II. In-vivo Metabolism of the Propanil Molecule
-Suppression of Food Intake in              Triatoma infestans              by              N              -Substituted Methyl Maleamates
+Suppression of Food Intake in Triatoma infestans by N -Substituted Methyl Maleamates
 Inhibitory Effects of Fungicides on Hydrolysis of Urea and Nitrification of Urea Nitrogen in Soil
-Insecticide Penetration and Symptomology Studies on Larvae of              Diabrotica undecimpunctata howardi              (Barber)
+Insecticide Penetration and Symptomology Studies on Larvae of Diabrotica undecimpunctata howardi (Barber)
 Assessing the Hazard to Granivorous Birds Feeding on Chemically Treated Seeds
-Cross-Resistance to Imidacloprid in Strains of German Cockroach (              Blattella germanica              ) and House Fly (              Musca domestica              )
+Cross-Resistance to Imidacloprid in Strains of German Cockroach ( Blattella germanica ) and House Fly ( Musca domestica )
 Comparative SAR Evaluations of Annonaceous Acetogenins for Pesticidal Activity
 Determinants of Fungicide Spray Decisions for Wheat
-A Survey of the Insecticide Resistance flatus of the Colorado Potato Beetle,              Leptinotarsa decemlineata              , in Hungary between 1987 and 1991.
-Effects of some Materials Extracted from              Ajuga reptans              var.              reptans              on              Aedes aegypti              and              Dysdercus cingulatus              larvae
+A Survey of the Insecticide Resistance flatus of the Colorado Potato Beetle, Leptinotarsa decemlineata , in Hungary between 1987 and 1991.
+Effects of some Materials Extracted from Ajuga reptans var. reptans on Aedes aegypti and Dysdercus cingulatus larvae
 Factors Affecting the Phytotoxicity of the Herbicide Acetochlor to Monocotyledonous and Dicotyledonous Weeds
-Control of Leaf Rust of Winter Wheat,              Triticum aestivum              , in Hungary
+Control of Leaf Rust of Winter Wheat, Triticum aestivum , in Hungary
 Communication to the Editor Determination of Chlorotoluron in Technical Products and Formulations by Reversed-Phase High Performance Liquid Chromatography (RP-HPLC)
 Common Names of Pesticides Recently Approved by the BSI
 Persistence of Chlorpyrifos in Soils under Different Moisture Regimes
-Bioregulatory Effects of the Fungicidal Strobilurin Kresoxim-methyl in Wheat (              Triticum aestivum              )
+Bioregulatory Effects of the Fungicidal Strobilurin Kresoxim-methyl in Wheat ( Triticum aestivum )
 Fate of Endosulfan in Cotton Soil under Sub-tropical Conditions of Northern India
-Alternative Respiration: a Biochemical Mechanism of Resistance to Azoxystrobin (ICIA 5504) in              Septoria tritici
+Alternative Respiration: a Biochemical Mechanism of Resistance to Azoxystrobin (ICIA 5504) in Septoria tritici
 Insecticidal Activity and HPLC Correlation of Thuringiensin from Fermentation and Two-phase Aqueous Separation Processes
 Photolysis of Diuron
-Inactivation of Paraquat by an Aqueous Extract of              Rehmannia glutinosa
+Inactivation of Paraquat by an Aqueous Extract of Rehmannia glutinosa
 Adsorption, Desorption and Mobility of Four Commonly Used Pesticides in Malaysian Agricultural Soils
 Pesticide Adsorption as a Function of Depth below Surface
 Acetyl-CoA Carboxylase-a Graminicide Target Site
-Characterisation of Multiple Glutathione Transferases Containing the GST I Subunit with Activities toward Herbicide Substrates in Maize (              Zea mays              )
+Characterisation of Multiple Glutathione Transferases Containing the GST I Subunit with Activities toward Herbicide Substrates in Maize ( Zea mays )
 Extended Summary New Perspectives in Mechanisms of Herbicide Action. Inhibition of 4-Hydroxyphenylpyruvate Dioxygenase: the Mode of Action of the Herbicide RPA 201772 (Isoxaflutole)
 Quantitative Structure-Activity Relationships of DDT-Type Compounds in a Sodium Tail-Current in Crayfish Giant Axons
 Root Uptake and Xylem Translocation of Pesticides from Different Chemical Classes
@@ -4946,26 +4935,26 @@ Two Analytical Methods for the Measurement of 2,4-D in Oranges: an ELISA Screeni
 Organochlorine Pesticide Residues in Northern Ireland
 Food Quality Control in Russia
 Intake of DDT Residues from Selected Meats of the Aragonese (NE Spain) Diet
-A Study of the degradation              in vitro              of Organochlorine Compounds by the Meat Starter Micro-organism              Micrococcus varians
+A Study of the degradation in vitro of Organochlorine Compounds by the Meat Starter Micro-organism Micrococcus varians
 Harmonization of Pesticide Residue Analytical Methods by the Technical Committee 275 of the Comité Européen de Normalisation (CEN/TC
 The Spanish Pesticide Residue Monitoring Programme: Design and Results
 Integrated Pest and Disease Control and Pesticide Residues: Results of a Four-year Study
 An Inter-laboratory Comparison Study of Two CEN Multi-residue Methods for Use in the Enforcement of Maximum Residue Levels for Pesticides in Fruit, Vegetables and Grain within the European Union
 Criteria for Evaluating Laboratories for their Involvement in the Italian Monitoring Network of the Ministry of Agriculture on Pesticide Residues in Food
 Photocatalytic Degradation of Lindane in Aqueous Solution
-Synthesis and Structure-Activity Relationships for the Fungicidal Activity of              O              ,              O              -bisaryl              sec              -butylphosphonates
-Seasonal Dynamics of Metabolic Mechanisms Mediating Pyrethroid Resistance in              Helicoverpa armigera              in Central India
+Synthesis and Structure-Activity Relationships for the Fungicidal Activity of O , O -bisaryl sec -butylphosphonates
+Seasonal Dynamics of Metabolic Mechanisms Mediating Pyrethroid Resistance in Helicoverpa armigera in Central India
 Potential Dissipation of Atrazine in the Soil Unsaturated Zone: a Comparative Study in Four European Countries
 Characterization of Spatial Variability Structure in Three Separate Field Trials on Pesticide Dissipation
-Insecticide Resistance in Field Strains of              Pectinophora gossypiella              (Saunders) in China and Effect of Synergists on Deltamethrin and Parathion-methyl Activity
+Insecticide Resistance in Field Strains of Pectinophora gossypiella (Saunders) in China and Effect of Synergists on Deltamethrin and Parathion-methyl Activity
 Kinetic Study of the Degradation of Ethiofencarb in Aqueous Solutions
 Translocation of Pymetrozine in Plants
 Plant-Mediated Effects on Pymetrozine Efficacy against Aphids
 Removal of Atrazine Contamination in Soil and Liquid Systems Using Bioaugmentation
-Biological Activity of Two Stereoisomers of the              N              -Thienyl Chloroacetamide Herbicide Dimethenamid
-An Insecticidal and Acaricidal Polysulfide Metabolite from the Roots of              Petiveria alliacea
-Relationship between the Spray Droplet Density of Two Protectant Fungicides and the Germination of              Mycosphaerella fijiensis              Ascospores on Banana Leaf Surfaces
-Status of Insecticide Resistance in              Spodoptera litura              in Andhra Pradesh, India
+Biological Activity of Two Stereoisomers of the N -Thienyl Chloroacetamide Herbicide Dimethenamid
+An Insecticidal and Acaricidal Polysulfide Metabolite from the Roots of Petiveria alliacea
+Relationship between the Spray Droplet Density of Two Protectant Fungicides and the Germination of Mycosphaerella fijiensis Ascospores on Banana Leaf Surfaces
+Status of Insecticide Resistance in Spodoptera litura in Andhra Pradesh, India
 Identification of Metabolites of Pentachlorobenzene and 1,2,4,5-Tetrachlorobenzene in Coyote Feces: Development of Physiological Markers for Wildlife Damage Control
 Rationally Designed Guanidine and Amidine Fungicides
 The Chemistry of Benzothiadiazole Plant Activators
@@ -4975,12 +4964,12 @@ The Design and Synthesis of Inhibitors of Imidazoleglycerol Phosphate Dehydratas
 Synthesis and Biological Activity of Allosamidin and Allosamidin Analogues
 Synthesis and Insecticidal Activity of Novel Pyridine Methanesulfonates
 Synthesis and Insecticidal Activity of Novel Pyrazole Methanesulfonates
-Synthesis of Analogues of Cispentacin, 1              R              , 2              S              -2-Aminocyclopentanecarboxylic Acid
+Synthesis of Analogues of Cispentacin, 1 R , 2 S -2-Aminocyclopentanecarboxylic Acid
 α-Hydroxyarylacetamides: A New Class of Fungicidally Active Compounds
 Synthesis and Insecticidal Activity of Heterocyclic Substituted Dihydropyrazoles
 Mode of action of β-carboline convulsants on the insect nervous system and their potential as insecticides
-Determination of              N              -(3-ethylsulfonyl-2-pyridinyl)-4,6-dimethoxy-2-pyridineamine in soil after treatment with rimsulfuron
-Fatty acid and wax biosynthesis in susceptible and triallate-resistant              Avena fatua              L.
+Determination of N -(3-ethylsulfonyl-2-pyridinyl)-4,6-dimethoxy-2-pyridineamine in soil after treatment with rimsulfuron
+Fatty acid and wax biosynthesis in susceptible and triallate-resistant Avena fatua L.
 Determination of residual 2,4,5-T in vegetables by high performance liquid chromatography with ultraviolet and fluorometric detection after derivatization with 2-(2,3-naphthalimino)ethyl trifluoromethanesulfonate (NE-OTf)
 Structural modifications increase the insecticidal activity of ryanodine
 The effects of pesticides on species of non-target Heteroptera inhabiting cereal fields in southern England
@@ -4993,14 +4982,14 @@ Extended Summary: Design of active analogues of a peptide using D-optimal Design
 Extended Summary: BIOSTER-a database of structurally analogous compounds
 Extended Summaries: Turn mimetics for peptide design
 Extended Summary: Calmodulin antagonists as potential antifungal agents
-Biological activity of the new herbicide LGC-40863 {benzophenone              O              -[2,6-bis[(4,6-dimethoxy-2-pyrimidinyl)oxy]benzoyl]oxime}
+Biological activity of the new herbicide LGC-40863 {benzophenone O -[2,6-bis[(4,6-dimethoxy-2-pyrimidinyl)oxy]benzoyl]oxime}
 Persistence and mobility of tebufenozide in forest litter and soil ecosystems under field and laboratory conditions
 Polydisperse ethoxylated fatty alcohol surfactants as accelerators of cuticular penetration. 1. Effects of ethoxy chain length and the size of the penetrants
-Evaluation of a wettable powder formulation for the nuclear polyhedrosis virus of              Anticarsia gemmatalis              (Lep.: Noctuidae)
+Evaluation of a wettable powder formulation for the nuclear polyhedrosis virus of Anticarsia gemmatalis (Lep.: Noctuidae)
 Stereochemistry and active conformation of a novel insecticide, acetamiprid
-Antinematodal activity of some Malaysian plant extracts against the pine wood nematode,              Bursaphelenchus xylophilus
-Resistance of barnyardgrass (              Echinochloa crus-galli              ) to atrazine and quinclorac
-Evaluation of the Francome MkII exhaust nozzle sprayer to apply oil-based formulations of              Metarhizium flavoviride              for locust control
+Antinematodal activity of some Malaysian plant extracts against the pine wood nematode, Bursaphelenchus xylophilus
+Resistance of barnyardgrass ( Echinochloa crus-galli ) to atrazine and quinclorac
+Evaluation of the Francome MkII exhaust nozzle sprayer to apply oil-based formulations of Metarhizium flavoviride for locust control
 Desorption of diuron and isoproturon from undispersed clay loam soil
 Behaviour of endosulfan residues in peppers, cucumbers and cherry tomatoes grown in greenhouse: evaluation by decline curves
 Studies on photodegradation of chlorimuron-ethyl in soil
@@ -5010,39 +4999,39 @@ Dedication: Franz Joseph Schwinn, 1929-1996
 Review: Resistance as a concomitant of modern crop protection
 The occurrence of herbicide-resistant weeds worldwide
 Glutathione transferases in herbicide-resistant and herbicide-susceptible black-grass (Alopecurus myosuroides)
-Genetics of              Heliothis              and              Helicoverpa              resistance to chemical insecticides and to              Bacillus thuringiensis
+Genetics of Heliothis and Helicoverpa resistance to chemical insecticides and to Bacillus thuringiensis
 Mechanisms of resistance to acetyl-coenzyme A carboxylase inhibitors: a review
 Molecular studies of knockdown resistance to pyrethroids: cloning of domain II sodium channel gene sequences from insects
 Significance of ABC transporters in fungicide sensitivity and resistance
 Interaction between acetylcholinesterase and choline acetyltransferase: an hypothesis to explain unusual toxicological responses
-Use of biochemical and DNA diagnostics for characterising multiple mechanisms of insecticide resistance in the peach-potato aphid,              Myzus persicae              (Sulzer)
-Sensitivity profiles of              Mycosphaerella graminicola              and              Phytophthora infestans              populations to different classes of fungicides
+Use of biochemical and DNA diagnostics for characterising multiple mechanisms of insecticide resistance in the peach-potato aphid, Myzus persicae (Sulzer)
+Sensitivity profiles of Mycosphaerella graminicola and Phytophthora infestans populations to different classes of fungicides
 Phenological adaptation in weeds-an evolutionary response to the use of herbicides?
-Evolution of resistance to diclofop-methyl in ryegrass (              Lolium multiflorum              ): investigation of the role of introgression with related species
+Evolution of resistance to diclofop-methyl in ryegrass ( Lolium multiflorum ): investigation of the role of introgression with related species
 New tools for studying epidemiology and resistance of grape powdery mildew to DMI fungicides
 Nerve insensitivity resistance to pyrethroids in Heliothine Lepidoptera
-Evolution of fungicide resistance in the cereal eyespot fungi              Tapesia yallundae              and              Tapesia acuformis              in France
+Evolution of fungicide resistance in the cereal eyespot fungi Tapesia yallundae and Tapesia acuformis in France
 Bt-transgenic crops: just another pretty insecticide or a chance for a new start in resistance management?
-Effect of application rate on the sensitivity of              Erysiphe graminis              f.sp.              tritici              to fenpropimorph
-The role of pendimethalin in the integrated management of propanil-resistant              Echinochloa colona              in Central America
+Effect of application rate on the sensitivity of Erysiphe graminis f.sp. tritici to fenpropimorph
+The role of pendimethalin in the integrated management of propanil-resistant Echinochloa colona in Central America
 Defining the resistance risk of the new powdery mildew fungicide quinoxyfen
-Efficacy of cultural control methods for combating herbicide-resistant              Lolium rigidum
+Efficacy of cultural control methods for combating herbicide-resistant Lolium rigidum
 Insecticide resistance management and integrated mite management in orchards: can they coexist?
-SAMOA              <sup>TM</sup>              : one company's approach to herbicide-resistant weed management
-Resistance of              Phytophthora porri              to metalaxyl
+SAMOA <sup>TM</sup> : one company's approach to herbicide-resistant weed management
+Resistance of Phytophthora porri to metalaxyl
 Resistance management strategies in malaria vector mosquito control. A large-scale field trial in Southern Mexico
 Resistance management in diseases of top fruit in Japan
 There has never been a better time or a greater need for resistance management
 Strategies for the prevention of development of pesticide resistance in the UK-lessons for and from the use of herbicides, fungicides and insecticides
-Management of resistance in              Bemisia              in Arizona cotton
+Management of resistance in Bemisia in Arizona cotton
 Towards the construction of a resistance risk evaluation scheme
 Phototransformation of linuron and chlorbromuron in aqueous solution
 Selection for imidacloprid resistance in silverleaf whiteflies from the Imperial Valley and development of a hydroponic bioassay for resistance monitoring
 Adsorption-desorption of 2,4-D by hydroxy aluminium montmorillonite complexes
 Mineralization of [14C] glyphosate and its plant-associated residues in arable soils originating from different farming systems
-Comparative testing of several juvenile hormone analogues in two species of locusts,              Locusta migratoria migratorioides              and              Schistocerca gregaria
+Comparative testing of several juvenile hormone analogues in two species of locusts, Locusta migratoria migratorioides and Schistocerca gregaria
 Preliminary investigations into the interactions of herbicides with aqueous humic substances
-Toxicity of the herbicide glufosinate-ammonium to              Tetranychus urticae              (Acari: Tetranychidae) under laboratory and field conditions
+Toxicity of the herbicide glufosinate-ammonium to Tetranychus urticae (Acari: Tetranychidae) under laboratory and field conditions
 Engineered baculoviruses for pest control
 The search for biologically active secondary metabolites
 Biologically active compounds from marine organisms
@@ -5050,58 +5039,58 @@ Editorial
 Synthetic pyrethroids containing a C-C triple bond
 Mode of action of naphthalic anhydride as a safener for the herbicide AC 263222 in maize
 Research into fluorinated pyrethroid alcohols-an episode in the history of pyrethroid discovery
-Diagnosis and characterization of insecticide-insensitive acetylcholinesterase in three populations of the sweetpotato whitefly              Bemisia tabaci
+Diagnosis and characterization of insecticide-insensitive acetylcholinesterase in three populations of the sweetpotato whitefly Bemisia tabaci
 Inhibition of two family 18 chitinases by various allosamidin derivatives
-Efficacy of plant metabolites of imidacloprid against              Myzus persicae              and              Aphis gossypii              (Homoptera: Aphididae)
+Efficacy of plant metabolites of imidacloprid against Myzus persicae and Aphis gossypii (Homoptera: Aphididae)
 Evaluation of methyl iodide as a soil fumigant in container and small field plot studies
-Protection of              Brassica              seedlings against downy mildew and damping-off by seed treatment with CGA 245704, an activator of systemic acquired resistance
-Synthesis and fungicidal activity of              N              -(              p              -sulfonylphenyl)-              N              1 -carbamoylureas
+Protection of Brassica seedlings against downy mildew and damping-off by seed treatment with CGA 245704, an activator of systemic acquired resistance
+Synthesis and fungicidal activity of N -( p -sulfonylphenyl)- N 1 -carbamoylureas
 Carbocyclic coformycin: a case study of the opportunities and pitfalls in the industrial search for new agrochemicals from nature
 Natural cyclopeptides as leads for novel pesticides: tentoxin and destruxin
 Quantitative correlation between molecular similarity and receptor-binding activity of neonicotinoid insecticides
 Studies on the mechanism of selectivity of the auxin herbicide quinmerac
 The fate of imidacloprid in tobacco smoke of cigarettes made from imidacloprid-treated tobacco
 Degradation of mecoprop at different concentrations in surface and sub-surface soil
-Adaptive changes in the patterns of carbohydrate metabolites in blood, liver, muscle and heart tissues of              Sarotherodon mossambicus              (Peters) exposed to the carbamate fungicide ziram
-Synthesis and biological evaluation of [1-(1              H              -1,2,4-triazol-1-yl)alkyl]-1-silacyclopentanes
+Adaptive changes in the patterns of carbohydrate metabolites in blood, liver, muscle and heart tissues of Sarotherodon mossambicus (Peters) exposed to the carbamate fungicide ziram
+Synthesis and biological evaluation of [1-(1 H -1,2,4-triazol-1-yl)alkyl]-1-silacyclopentanes
 Antifungal activity of 1,3-disubstituted symmetrical and unsymmetrical thioureas
 Enzyme immunoassay for atrazine analysis in water and soil
 Cinnamamide, an avian repellent, reduces woodpigeon damage to oilseed rape
 Identifying proteins with insecticidal activity: use of encoding genes to produce insect-resistant transgenic crops
 Plant-derived enzyme inhibitors and lectins for resistance against plant-parasitic nematodes in transgenic crops
 Natural products in agriculture-a view from the industry
-Acaricide resistance management of leprosis mite (              Brevipalpus phoenicis              ) in Brazilian citrus
-Reduced rates of herbicide metabolism confer tri-allate resistance in              Avena fatua
+Acaricide resistance management of leprosis mite ( Brevipalpus phoenicis ) in Brazilian citrus
+Reduced rates of herbicide metabolism confer tri-allate resistance in Avena fatua
 Insecticide resistance management in Europe: recent developments and prospects
-Development and implementation of biochemical insecticide resistance detection in Danish field strains of              Musca domestica
-The biochemical detection of insecticide resistance in Danish field populations of the German cockroach              Blattella germanica              (Blattellidae)
+Development and implementation of biochemical insecticide resistance detection in Danish field strains of Musca domestica
+The biochemical detection of insecticide resistance in Danish field populations of the German cockroach Blattella germanica (Blattellidae)
 Consumption of fipronil-treated rice seed does not affect captive blackbirds
-Movement and persistence of [              <sup>14</sup>              C]imidacloprid in sugar-beet plants following application to pelleted sugar-beet seed
+Movement and persistence of [ <sup>14</sup> C]imidacloprid in sugar-beet plants following application to pelleted sugar-beet seed
 Assessment of effects on non-target plants from sulfonylurea herbicides using field approaches
 Effect of neem cake on persistence of diazinon and endosulfan in paddy soil
 No negative sublethal effects of two insecticides on prey capture and development of a spider
-Applying non-steady-state compartmental analysis to investigate the simultaneous degradation of soluble and sorbed glyphosate (              N              -(phosphonomethyl)glycine) in four soils
+Applying non-steady-state compartmental analysis to investigate the simultaneous degradation of soluble and sorbed glyphosate ( N -(phosphonomethyl)glycine) in four soils
 Measurement and simulation of herbicide transport in macroporous soils
 Synthesis and precocious-metamorphosis-inducing activity of 3-pyridyl ethers
-Sterol composition of isolates of              Erysiphe graminis              f.sp.              tritici              differing in sensitivity to fenpropimorph
+Sterol composition of isolates of Erysiphe graminis f.sp. tritici differing in sensitivity to fenpropimorph
 Preparation of some novel phosphonamidates, their phytotoxicity and herbicidal properties
 Use of a field-scale biofilter for the degradation of the organophosphate insecticide coumaphos in cattle dip wastes
 Behaviour of fipronil in soil under Sahelian Plain field conditions
-The synthesis and larvicidal activity of              N              -aroyl-              N              ′-(5-aryl-2-furoyl)ureas
-The influence of benomyl formulation on the response of cucumber seedlings (              Cucumis sativus              ) to dibutylurea
+The synthesis and larvicidal activity of N -aroyl- N ′-(5-aryl-2-furoyl)ureas
+The influence of benomyl formulation on the response of cucumber seedlings ( Cucumis sativus ) to dibutylurea
 Physicochemical model and kinetics of pesticide constituent evaporation out of multi-ingredient polydisperse aerosols
 Book Review: Phytochemicals for pest control, ed. P. A. Hedin, R. M. Hollingworth, E. P. Masler, J. Miyamoto & D. G. Thompson, American Chemical Society, Washington DC, USA, 1997, x+372 pp., price US $109.95. ISBN 0-8412-3488-4.
 Book Review: Crop protection agents from nature: natural products and analogues, ed. Leonard G. Copping, The Royal Society of Chemistry, Cambridge, for the SCI, 1996, xvii+501 pp., price UK £129.50. ISBN 0-85404-414-0.
 Book Review: The neem tree: source of unique natural products for integrated pest management, medicine, industry and other purposes, ed. H. Schmutterer, VCH Weinheim, Germany, 1995, 716 pp., price DM198.00. ISBN 3-527-30054-6.
 Book Review: Biotransformations, Volume 7: A survey of the biotransformations of drugs and chemicals in animals, ed. D. R. Hawkins, The Royal Society of Chemistry, Cambridge, 1996, xxxii+486 pp., price UK £139.50. ISBN 0-85404-403-5.
-Correction:              Pestic.Sci.              <b>50</b>              , 291-296 (1997)
-Synthesis and fungicidal activity against              Pyricularia oryzae              of 6-(1,2,4-triazol-4-yl) chromone and -1-thiochromone derivatives
+Correction: Pestic.Sci. <b>50</b> , 291-296 (1997)
+Synthesis and fungicidal activity against Pyricularia oryzae of 6-(1,2,4-triazol-4-yl) chromone and -1-thiochromone derivatives
 Application of the pesticide transport assessment model to a field study in a humic sandy soil in Vredepeel, The Netherlands
-Insecticidal activity of Sikimi extract and its modulation of the GABA              <sub/>A</sub>              receptor channel
+Insecticidal activity of Sikimi extract and its modulation of the GABA <sub/>A</sub> receptor channel
 Dimethoxypyrimidines as novel herbicides. Part 4. Quantitative structure-activity relationships of dimethoxypyrimidinyl(thio)salicylic acids
 A theoretical study of discriminating parameters in metabolic resistance to insecticides
 The impact of phenology, exposure and instar susceptibility on insecticide effects on a chrysomelid beetle population
-Imazethapyr inhibition of acetolactate synthase in              Rhizobium              and its symbiosis with pea
+Imazethapyr inhibition of acetolactate synthase in Rhizobium and its symbiosis with pea
 A specific and sensitive assay to quantify the herbicidal activity of chloroacetamides
 Consumer acceptance of transgenic crops
 Herbicide-tolerant crops-real farmer opportunity or potential environmental problem?
@@ -5111,37 +5100,37 @@ Book review: Cytochrome P450: Structure, mechanism and biochemistry, second edit
 Book Review: The methyl bromide issue, C.H. Bell, N. Price & B. Charkrabarti, John Wiley & Sons, Chichester, 1996, xii + 400 pp., price UK £65.00. ISBN 0471 95521 3.
 Book review: Progress in pesticide biochemistry and toxicology, Volume 9: Environmental behaviour of agrochemicals, ed T.R. Roberts & P.C. Kearney, John Wiley & Sons, Ltd., Chichester, 1995, 407 pp, price UK £75.00. ISBN 0471 95301 6
 Evaluation of effects of oral exposure to ametryn on development of mice
-Distribution of sensitivity responses to cymoxanil within global populations of              Phytophthora infestans
+Distribution of sensitivity responses to cymoxanil within global populations of Phytophthora infestans
 Simple and sensitive method for determination of tetramethylthiuram disulphide (thiram)
-Characterization of malathion resistance in a Mexican population of              Rhizopertha dominica
+Characterization of malathion resistance in a Mexican population of Rhizopertha dominica
 A general joint action model for herbicide mixtures
 Fate of chlorsulfuron in the environment. 1. Laboratory evaluations
 Fate of chlorsulfuron in the environment. 2. Field evaluations
 Effect of soil physical factors on methyl iodide and methyl bromide
-Deposition of aerially applied tebufenozide (RH5992) on balsam fir (              Abies balsamea              ) and its control of spruce budworm (              Choristoneura fumiferana              [Clem.])
-Bactericidal and fungicidal activity of              Aspergillus ochraceus              metabolites and some derivatives
-[              <sup>14</sup>              C]Dicofol association to cellular components of              Azospirillum lipoferum
+Deposition of aerially applied tebufenozide (RH5992) on balsam fir ( Abies balsamea ) and its control of spruce budworm ( Choristoneura fumiferana [Clem.])
+Bactericidal and fungicidal activity of Aspergillus ochraceus metabolites and some derivatives
+[ <sup>14</sup> C]Dicofol association to cellular components of Azospirillum lipoferum
 Relationship between azinphos-methyl usage and residues on grapes and in wine in Australia
-Modeling insect resistance to insecticides using velvetbean caterpillar (              Anticarsia gemmatalis              ) as an example
-Effect of ABT on the activity and rate of degradation of isoproturon in susceptible and resistant biotypes of              Phalaris minor              and in wheat
-Antifeedant effect, biological efficacy and high affinity binding of imidacloprid to acetylcholine receptors in              Myzus persicae              and              Myzus nicotianae
+Modeling insect resistance to insecticides using velvetbean caterpillar ( Anticarsia gemmatalis ) as an example
+Effect of ABT on the activity and rate of degradation of isoproturon in susceptible and resistant biotypes of Phalaris minor and in wheat
+Antifeedant effect, biological efficacy and high affinity binding of imidacloprid to acetylcholine receptors in Myzus persicae and Myzus nicotianae
 Permeability of plastic films to methyl bromide: a comparative laboratory study
 Uptake, translocation and metabolism of the herbicide molinate in tobacco and rice
-An investigation of herbicide interaction with the H              <sup>+</sup>              -ATPase activity of plant plasma membranes
+An investigation of herbicide interaction with the H <sup>+</sup> -ATPase activity of plant plasma membranes
 Simple syntheses of malathion and malaoxon enantiomers, and isomalathion diastereoisomers: toxicity-configuration relationship
 Comparison of the adsorption of carbofuran at the silica-liquid and liquid-vapour interfaces
-Effect of the ecdysone agonists, RH-2485 and tebufenozide, on the southwestern corn borer,              Diatraea grandiosella
+Effect of the ecdysone agonists, RH-2485 and tebufenozide, on the southwestern corn borer, Diatraea grandiosella
 Miticidal pyrethroids having an isobutyranilidoxime ether skeleton
 Induced resistance: a tool for fungicide resistance management
 Book review: Environmental behaviour of pesticides and regulatory aspects, ed. A. Copin, G. Houins, L. Pussemier & J. F. Salembier, COST ACTION 66 Symposium, Brussels, 26-29 April 1994, The Royal Society of Chemistry, Cambridge, UK, 1995, 513 pp., price U
 Book review: Agricultural chemicals and the environment; Issues in environmental science and technology, volume 5, ed. R. E. Hester & R. M. Harrison, Royal Society of Chemistry, Cambridge, 1996, xi+127 pp., price UK£17.50. ISBN 0-85404-220-2.
-Proinsecticides effective against insecticide-resistant peach-potato aphid (              Myzus persicae              (Sulzer))
-Glutathione transferases and herbicide detoxification in suspension-cultured cells of giant foxtail (              Setaria faberi              )
+Proinsecticides effective against insecticide-resistant peach-potato aphid ( Myzus persicae (Sulzer))
+Glutathione transferases and herbicide detoxification in suspension-cultured cells of giant foxtail ( Setaria faberi )
 Stability of the natural insecticide azadirachtin in aqueous and organic solvents
 Rate of transformation of atrazine and bentazone in water-saturated sandy subsoils
 Release of atrazine and alachlor from clay-oxamide controlled-release formulations
 Insecticidal properties of benzofuran-2-carboxylic acid derivatives
-Influence of soil pH and contents of organic carbon and clay on the volatilization of [              <sup>14</sup>              C]fenpropimorph after application to bare soil
+Influence of soil pH and contents of organic carbon and clay on the volatilization of [ <sup>14</sup> C]fenpropimorph after application to bare soil
 Towards predicting pesticide deposition from plant phenology; a study in spring barley
 Book Review: Pesticides in the hydrologic system-pesticides in the atmosphere: Distribution, trends and governing factors. Michael S. Majewski & Paul D. Capel, Ann Arbor Press Inc., Chelsea, Michigan, 1995, 214 pp., price UK£36.95. ISBN 1-57504-004-2
 Book Review: Chemistry of organic fluorine compounds II: A critical review. ed. M. Hudlicky & A. E. Pavlath, American Chemical Society, Washington DC, 1995, xxi+1296 pp., price US$169.95. ISBN 0-8412-2515-X
@@ -5149,51 +5138,51 @@ Book Review: Urban entomology: insect and mite pests in the human environment. W
 Book Review: Fundamental toxicology for chemists. ed. J. H. Duffus & H. G. J. Worth, Royal Society of Chemistry, Cambridge, 1996, 327 pp., price UK£29.50. ISBN 0-85404-529-5
 Quantitative structure-activity studies of insect growth regulators xiv. Three-dimensional quantitative structure-activity relationship of ecdysone agonists including dibenzoylhydrazine analogs
 Relative solubilities of bifenox and 1-naphthylacetic acid (NAA) in plant cuticles and in selected pure or aqueous glycol additives
-Carbofuran-induced biochemical changes in              Clarias batrachus
+Carbofuran-induced biochemical changes in Clarias batrachus
 Using a videographic system to assess spray droplet impaction and reflection from leaf and artificial surfaces
 Methods for determining the vapour pressure of active ingredients used in crop protection. Part V: Thermogravimetry combined with solid phase microextraction (SPME)
 Fate of metsulfuron-methyl in soils in relation to pedo-climatic conditions
-Uptake and fate of triticonazole applied as seed treatment to spring wheat (              Triticum aestivum              L.)
+Uptake and fate of triticonazole applied as seed treatment to spring wheat ( Triticum aestivum L.)
 Book Review: Principles of ecotoxicology. C.H.Walker, S.P.Hopkin, R.M.Sibly & D.B.Peakall. Taylor & Francis, London, 1996. xxii + 321pp. price UK £19.95. ISBN 0-7484-0221-7
 Uptake by roots and translocation to shoots of two morpholine fungicides in barley
-Efficacy of hexaflumuron against the fungus-growing termite              Pseudacanthotermes              spiniger              (Sjöstedt) (isoptera, macrotermitinae)
+Efficacy of hexaflumuron against the fungus-growing termite Pseudacanthotermes spiniger (Sjöstedt) (isoptera, macrotermitinae)
 Action of the ecdysteroid agonist tebufenozide in susceptible and artificially selected beet armyworm
 Glucosinolate aglucones and analogues: insecticidal properties and a QSAR
-Comparative effects of the herbicide dinitro-              o              -cresol on mitochondrial bioenergetics
+Comparative effects of the herbicide dinitro- o -cresol on mitochondrial bioenergetics
 Sorption of low levels of nonionic and anionic surfactants on soil: effects on sorption of triticonazole fungicide
 Residues and fate of endosulfan on field-grown pepper and tomato
 A molecular dynamics investigation on the inclusion of chiral agrochemical molecules in β-cyclodextrin. Complexes with dichlorprop, 2-phenoxypropionic acid and dioxabenzofos
-Microbial              N              -dealkylation of atrazine: Effect of exogeneous organic substrates and behaviour of the soil microflora
+Microbial N -dealkylation of atrazine: Effect of exogeneous organic substrates and behaviour of the soil microflora
 Physicochemical factors affecting the uptake by roots and translocation to shoots of amine bases in barley
 Book Review: Enzymatic reactions in organic media, ed. A. M. P. Koskinen & A. M. Klibanov, Blackie Academic and Professional, London, 1996, xiii+314 pp., price UK£75.00. ISBN 0 7514 00259 1.
-Toxicity of spinosad to susceptible and resistant strains of house flies,              Musca domestica
+Toxicity of spinosad to susceptible and resistant strains of house flies, Musca domestica
 Modelling pesticide run-off to surface waters. Part I: Model theory and development
 Modelling pesticide run-off to surface waters. Part II: Model application
 Prediction of the binding mode of imidacloprid and related compounds to house-fly head acetylcholine receptors using three-dimensional QSAR analysis
 The use of piperonyl butoxide and MGK-264 to improve the efficacy of some plant-derived molluscicides
-Reduced sensitivity to fenarimol in Japanese field strains of              Venturia nashicola
-Effects of sterol biosynthesis inhibitor fungicides in the phytopathogenic fungus,              Nectria haematococca:              ergosterol depletion versus precursor or abnormal sterol accumulation as the mechanism of fungitoxicity
+Reduced sensitivity to fenarimol in Japanese field strains of Venturia nashicola
+Effects of sterol biosynthesis inhibitor fungicides in the phytopathogenic fungus, Nectria haematococca: ergosterol depletion versus precursor or abnormal sterol accumulation as the mechanism of fungitoxicity
 Spray application factors and plant growth regulator performance: I. Bioassays and biological response
 Imaging Spitzenkörper, pH and calcium dynamics in growing fungal hyphae
 Book review: Risk reduction: chemicals and energy into the 21st century. ed. Mervyn L. Richardson, Taylor & Francis Ltd, London, 1996, 612 pp., UK£115.00. ISBN 0-7484-0398-1
 Book review: The ecology of agricultural pests: biochemical approaches, ed. W. O. C. Symondson & J. E. Liddell, Chapman and Hall, London, 1996, 517 pp., price UK£75.00. ISBN 0 412 62190 8.
 Book review: Induced responses to herbivory. ed. R. Karban & I. T. Baldwin, The University of Chicago Press, Chicago, 1997, ix+319 pp., price US$27.95, UK£14.25. ISBN 0 226 42496 0.
 Book review: Chlorinated organic micropollutants. ed. R. E. Hester & R. M. Harrison, Royal Society of Chemistry, Cambridge, 1996, 184 pp., price UK£17.50. ISBN 0-85404-225-3
-Correction:              Pestic. Sci.              <b>53</b>              , 201-208 (1998)
-DPX-MP062-a potent compound for controlling the Egyptian cotton leafworm              Spodoptera littoralis              (Boisd.)
+Correction: Pestic. Sci. <b>53</b> , 201-208 (1998)
+DPX-MP062-a potent compound for controlling the Egyptian cotton leafworm Spodoptera littoralis (Boisd.)
 Sorption of atrazine and dicamba in Delaware coastal plain soils: a comparison of soil thin layer and batch equilibrium results
 A Bayesian approach to the analysis of environmental fate and behaviour data for pesticide registration
 Polyclonal and monoclonal antibodies specific to the chrysanthemic acid moiety of pyrethroid insecticides
-Over-expression of cytochrome P450 CYP6B7 mRNA and pyrethroid resistance in Australian populations of              Helicoverpa armigera              (Hübner)
-Cross-resistance between azinphos-methyl and tebufenozide in the greenheaded leafroller,              Planotortrix octo
+Over-expression of cytochrome P450 CYP6B7 mRNA and pyrethroid resistance in Australian populations of Helicoverpa armigera (Hübner)
+Cross-resistance between azinphos-methyl and tebufenozide in the greenheaded leafroller, Planotortrix octo
 Diffusive movement of simazine and lindane in river-bed sediments
 Synthesis of benzylaminopyrimidines and their fungicidal activities against wheat brown rust and barley powdery mildew
-Differential responses of germinating              Venturia inaequalis              conidia to kresoxim-methyl
+Differential responses of germinating Venturia inaequalis conidia to kresoxim-methyl
 Aerobic soil metabolism of flupyrazofos
-Recent evolution of multiple resistance of              Blumeria              (              Erysiphe              )              graminis              f.sp.              tritici              to selected DMI and morpholine fungicides in France
-Phototransformation of napropamide [              N              ,              N              -diethyl-2-(1-naphthyloxy)propionamide] in aqueous solution: influence on the toxicity of solutions
-Sensitivity distribution of              Septoria tritici              isolates to flusilazole for consecutive years 1993, 1994 and 1995 in France, Germany and the United Kingdom
-Insecticidal and repellent properties of nine volatile constituents of essential oils against the American cockroach,              Periplaneta americana              (L.)
+Recent evolution of multiple resistance of Blumeria ( Erysiphe ) graminis f.sp. tritici to selected DMI and morpholine fungicides in France
+Phototransformation of napropamide [ N , N -diethyl-2-(1-naphthyloxy)propionamide] in aqueous solution: influence on the toxicity of solutions
+Sensitivity distribution of Septoria tritici isolates to flusilazole for consecutive years 1993, 1994 and 1995 in France, Germany and the United Kingdom
+Insecticidal and repellent properties of nine volatile constituents of essential oils against the American cockroach, Periplaneta americana (L.)
 Kinetics of heterogeneous photocatalytic decomposition of 2,4-dichlorophenoxyacetic acid over titanium dioxide and zinc oxide in aqueous solution
 Actions of azadirachtin, a plant allelochemical, against insects
 The commercial use of azadirachtin and its integration into viable pest control programmes
@@ -5202,15 +5191,15 @@ Semiochemicals to increase parasitism in aphid pest control
 The commercial exploitation of pheromones and other semiochemicals
 Semiochemicals: foresight and hindsight
 Mode of action of insect growth regulators in lepidopteran tissue culture
-Enantioselective catalysis for agrochemicals: synthetic routes to (              S              )-metolachlor, (              R              )-metalaxyl and (α              S              ,3              R              )-clozylacon
+Enantioselective catalysis for agrochemicals: synthetic routes to ( S )-metolachlor, ( R )-metalaxyl and (α S ,3 R )-clozylacon
 Synthesis and insecticidal evaluation of imidacloprid analogs
-Synthesis and insecticidal evaluation of              N              -substituted 2-nitroiminoimidazolidines
-Structure elucidation of omphalotin, a cyclic dodecapetide with potent nematicidal activity isolated from              Omphalotus olearius
-Evidence of an attractant from virgin females of              Bephratelloides pomorum              (Hymenoptera: Eurytomidae): possible role of cuticular compounds
+Synthesis and insecticidal evaluation of N -substituted 2-nitroiminoimidazolidines
+Structure elucidation of omphalotin, a cyclic dodecapetide with potent nematicidal activity isolated from Omphalotus olearius
+Evidence of an attractant from virgin females of Bephratelloides pomorum (Hymenoptera: Eurytomidae): possible role of cuticular compounds
 Influence of formulants and salt formation on volatilisation and activity of pyrimethanil
-Inhibitors of appressorium formation in              Magnaporthe grisea              : a new approach to control rice blast disease
-A new type of plant activator: thieno[2,3-              d              ][1,2,3]thiadiazole-6-carboxylic acid derivatives
-Insensitive acetylcholinesterase causes resistance to organophosphates in Australian              Helicoverpa armigera              (Hübner) (Lepidoptera: Noctuidae)
+Inhibitors of appressorium formation in Magnaporthe grisea : a new approach to control rice blast disease
+A new type of plant activator: thieno[2,3- d ][1,2,3]thiadiazole-6-carboxylic acid derivatives
+Insensitive acetylcholinesterase causes resistance to organophosphates in Australian Helicoverpa armigera (Hübner) (Lepidoptera: Noctuidae)
 Factors affecting foliar retention of some model adjuvant oil-in-water emulsions
 Current research at Zeneca Agrochemicals - changing the paradigm
 High-throughput screening as a tool for agrochemical discovery: automated synthesis, compound input, assay design and process management
@@ -5228,20 +5217,20 @@ Assessing the ground-water contamination potential of agricultural chemicals: a 
 Pesticide resistance: assessment of risk and the development and implementation of effective management strategies†
 Biosensors for the measurement of toxicity of wastewaters to activated sludge†
 Editorial
-Increased activity associated with reduced sensitivity of acetylcholinesterase in organophosphate-resistant greenbug,              schizaphis graminum              (homoptera: aphididae)
-Fenitrothion toxicity in              triatoma infestans              synergized by quercetin or thymol blue
+Increased activity associated with reduced sensitivity of acetylcholinesterase in organophosphate-resistant greenbug, schizaphis graminum (homoptera: aphididae)
+Fenitrothion toxicity in triatoma infestans synergized by quercetin or thymol blue
 In-vitro and in-vivo nematicidal activities of the cyclic dodecapeptide omphalotin A
 Metabolism and cell wall incorporation of phenoxyacetic acid in soybean cell suspension culture
 Effect of carpropamid on secondary infection by rice blast fungus
 Pesticide paddy field model (PADDY) for predicting pesticide concentrations in water and soil in paddy fields
 Vertebrate wildlife incidents with pesticides: a european survey
-Detection of iron in tissues from slugs (              deroceras reticulatum              müller) after ingestion of iron chelates, by means of energy-filtering transmission electron microscopy (EFTEM)
+Detection of iron in tissues from slugs ( deroceras reticulatum müller) after ingestion of iron chelates, by means of energy-filtering transmission electron microscopy (EFTEM)
 Are we analysing knockdown in the right way? how independence of the knockdown-recovery process from mortality may affect measures for behavioural effects in pesticide bioassays
 Recent developments in our understanding of the plant cuticle as a barrier to the foliar uptake of pesticides†
 Hydrogen bonding part 46: a review of the correlation and prediction of transport properties by an lfer method: physicochemical properties, brain penetration and skin permeability
 Mode of action of famoxadone
-Quantitative structure-activity studies of octopaminergic ligands against              Locusta migratoria              and              Periplaneta americana
-Sensitivity of European              Plasmopara viticola              populations to cymoxanil
+Quantitative structure-activity studies of octopaminergic ligands against Locusta migratoria and Periplaneta americana
+Sensitivity of European Plasmopara viticola populations to cymoxanil
 Joint action of natural and synthetic photosystem II inhibitors
 Effects of the herbicide prometryn on the physicochemical properties of artificial model membranes
 Spatial and temporal distributions of 1,3-dichloropropene in soil under drip and shank application and implications for pest control efficacy using concentration-time index
@@ -5253,14 +5242,14 @@ Registration of mixed formulations of pesticides
 Plant immunisation: from myth to SAR
 β-Methoxyacrylates; synthesis of new types of strobilurin fungicides with extended side chains
 The effects of six adjuvants on the rainfastness of chlorpyrifos formulated as an emulsifiable concentrate
-Allium              spp thiosulfinates as substitute fumigants for methyl bromide
+Allium spp thiosulfinates as substitute fumigants for methyl bromide
 Synthesis and insecticidal activity of nitroguanidine derivatives
 Insect-neuroactive substances in two species of the genus Liquidamber
-Antifungal activity of resveratrol oligomers from              Cyphostemma crotalarioides
+Antifungal activity of resveratrol oligomers from Cyphostemma crotalarioides
 Aphid sex pheromones: manipulation of beneficial insects for aphid population control
-Plant secondary metabolites regulating behaviour of zoospores of the phytopathogenic fungus              Aphanomyces cochlioides
+Plant secondary metabolites regulating behaviour of zoospores of the phytopathogenic fungus Aphanomyces cochlioides
 Role of the α subunit of nicotonic acetylcholine receptor in the selective action of imidacloprid
-Oxazolidinones: a new chemical class of fungicides and inhibitors of mitochondrial cytochrome bc              <sub/>1</sub>              function
+Oxazolidinones: a new chemical class of fungicides and inhibitors of mitochondrial cytochrome bc <sub/>1</sub> function
 Isotope-edited nuclear magnetic resonance: novel methodologies for investigating metabolism
 Approaches to refining pesticide risk assessments - the spatial estimation of potential leaching risk
 Chirality in synthetic agrochemicals: bioactivity and safety considerations
@@ -5268,60 +5257,60 @@ Pesticide fate in tropical soils
 Optimum use of available residue data in the estimation of dietary intake of pesticides
 Exploiting semiochemicals in insect control
 The design and synthesis of inhibitors of dethiobiotin synthetase as potential herbicides
-Herbicide detoxification by glutathione              S              -transferases as implicated from X-ray structures
+Herbicide detoxification by glutathione S -transferases as implicated from X-ray structures
 Botanical fungicides: natural and semi-synthetic ceveratrum alkaloids
 Whitefly-active metabolites of imidacloprid: biological efficacy and translocation in cotton plants
-Managing resistance to the insect growth regulator, pyriproxyfen, in              Bemisia tabaci
-Catalytic mechanism of scytalone dehydratase from              Magnaporthe grisea
+Managing resistance to the insect growth regulator, pyriproxyfen, in Bemisia tabaci
+Catalytic mechanism of scytalone dehydratase from Magnaporthe grisea
 Structural replacements for the benzoxazinone protox inhibitors
 Fate and behaviour of flupyrsulfuron-methyl in soil and aquatic systems
 Evidence for the enhanced biodegradation of ethoprophos and carbofuran in soils from Greece and the UK
 Application of rheological measurements for probing the sedimentation of suspension concentrate formulations
-Synthesis and fungicidal activity against              Pyricularia oryzae              of some heteroaryl thiophene carbamates
+Synthesis and fungicidal activity against Pyricularia oryzae of some heteroaryl thiophene carbamates
 Plant natural products as insect steroid receptor agonists and antagonists
-Molluscicidal and antibacterial compounds from              Petunia hybrida
+Molluscicidal and antibacterial compounds from Petunia hybrida
 Formulating microbial biocontrol agents
 Phytotoxic peroxidizing actions of cyclohexanedione (RWH-series) derivatives
 Molecular shape similarity between cyclic imides and protoporphyrinogen IX
 Amorphous Zn2GeO4 nanoparticles as anodes with high reversible capacity and long cycling life for Li-ion batteries
-Glutathione              S              -transferases in black-grass (              Alopecurus myosuroides              Huds.): Properties and involvement in herbicide resistance
+Glutathione S -transferases in black-grass ( Alopecurus myosuroides Huds.): Properties and involvement in herbicide resistance
 Synthesis and insecticidal activity of CGA 293′343 - a novel broad-spectrum insecticide
 Synthetic approaches towards CGA 293'343: a novel broad-spectrum insecticide
 Non-steroidal ecdysone agonists: new tools for IPM and insect resistance management
 Synthesis and insecticidal activity of 3-aminoquinazolinone derivatives
-Expression of              Neurospora crassa              β-tubulin, target protein of benzimidazole fungicides, in              Escherichia coli
-Gene disruption and biochemical characterisation of 3-isopropylmalate dehydrogenase from              Stagonospora nodorum
-Involvement of the alternative oxidase in cellular energy production in the wheat ‘take all’ fungus,              Gaeumannomyces graminis              var              tritici
+Expression of Neurospora crassa β-tubulin, target protein of benzimidazole fungicides, in Escherichia coli
+Gene disruption and biochemical characterisation of 3-isopropylmalate dehydrogenase from Stagonospora nodorum
+Involvement of the alternative oxidase in cellular energy production in the wheat ‘take all’ fungus, Gaeumannomyces graminis var tritici
 Synthesis and herbicidal activity of pyrimidine derivatives
-The mystery of the trichothecene 3-              O              -acetyltransferase gene:              Tri101              evolved independently of other trichothecene biosynthetic genes in the gene cluster
+The mystery of the trichothecene 3- O -acetyltransferase gene: Tri101 evolved independently of other trichothecene biosynthetic genes in the gene cluster
 Parallel synthesis and automated data analysis: a versatile decision tool
-Commercial development and introduction of DiTera              <sup>TM</sup>              , a new nematicide
+Commercial development and introduction of DiTera <sup>TM</sup> , a new nematicide
 The insecticidal activity of derivatives of the ionophore X-206
 Effects of some surfactants on foliar impaction and retention of monosize water droplets
-Analysis of surfactant leaf damage using microscopy and its relation to glyphosate or deuterium oxide uptake in velvetleaf (              Abutilon theophrasti              )
-Ecdysone agonists - mechanism of action and application on              Spodoptera              species
+Analysis of surfactant leaf damage using microscopy and its relation to glyphosate or deuterium oxide uptake in velvetleaf ( Abutilon theophrasti )
+Ecdysone agonists - mechanism of action and application on Spodoptera species
 Dual physiological effects of antifungal sterol biosynthetic inhibitors on enzyme targets and on transcriptional regulation
-Detection of single-base substitution in an esterase gene and its linkage to malathion resistance in the parasitoid              Anisopteromalus calandrae              (Hymenoptera: Pteromalidae)
-The response of pyriproxyfen-resistant and susceptible              Bemisia tabaci              Genn (Homoptera: Aleyrodidae) to pyriproxyfen and fenoxycarb alone and in combination with piperonyl butoxide
+Detection of single-base substitution in an esterase gene and its linkage to malathion resistance in the parasitoid Anisopteromalus calandrae (Hymenoptera: Pteromalidae)
+The response of pyriproxyfen-resistant and susceptible Bemisia tabaci Genn (Homoptera: Aleyrodidae) to pyriproxyfen and fenoxycarb alone and in combination with piperonyl butoxide
 Application of fungicides to foliage through overhead sprinkler irrigation - a review
 Surface transport of 2,4-D from small turf plots: observations compared with GLEAMS and PRZM-2 model simulations
 Aerobic soil metabolism of metsulfuron-methyl
-Effects of alkyl groups attached to the carbamoyl nitrogen atom of an              N              -arylcarbamoylpyrazoline on insecticidal activity
+Effects of alkyl groups attached to the carbamoyl nitrogen atom of an N -arylcarbamoylpyrazoline on insecticidal activity
 Voltage-dependent modulation of the neuronal nicotinic acetylcholine receptor-channel by cartap
 Synthesis, conformational studies and anthelmintic activity of a constrained PF1022A analogue
-Dynamics of pyrethroid resistance in a field population of              Helicoverpa armigera              (Hübner) in China
+Dynamics of pyrethroid resistance in a field population of Helicoverpa armigera (Hübner) in China
 Exposure assessment of professional pesticide users during treatment of potato fields
 Phytotoxic activity of clomeprop in soil and concentration of its hydrolysed metabolite DMPA in soil water
 Photodegradation of herbicide triasulfuron
 Kinetics and mechanism of the hydrolysis of imidacloprid
 Fungitoxic activity of four thio-functionalised glucosinolate enzyme-derived products on ten soil-borne pathogens
 An Umpolung approach to fluorinated non-ester pyrethroids
-Resistance to glyphosate in              Lolium rigidum
+Resistance to glyphosate in Lolium rigidum
 Synthesis of analogues of the monic acids A and C as potential herbicides
 Bioactive compounds from neem tissue cultures and screening against insects
-Transport of [              <sup>14</sup>              C]benazolin and bromide in large zero-tension outdoor lysimeters and the undisturbed field in a sandy soil
+Transport of [ <sup>14</sup> C]benazolin and bromide in large zero-tension outdoor lysimeters and the undisturbed field in a sandy soil
 Resistance to benzimidazole can be caused by changes in β-tubulin isoforms
-Molecular basis of resistance to acetolactate synthase-inhibiting herbicides in              Sisymbrium orientale              and              Brassica tournefortii
+Molecular basis of resistance to acetolactate synthase-inhibiting herbicides in Sisymbrium orientale and Brassica tournefortii
 Effect of fipronil seed treatments on the germination and early growth of rice
 Differentiating between physical and chemical constraints on pesticide and water movement into and out of soil aggregates
 Investigations on the metabolic fate of prochloraz in soil under field and laboratory conditions
@@ -5329,29 +5318,29 @@ Degradation of atrazine and isoproturon in the unsaturated zone: a study from So
 Use of bentonite and humic acid as modifying agents in alginate-based controlled-release formulations of imidacloprid
 Pre-baiting for increased acceptance of zinc phosphide baits by voles: an assessment technique
 Degradation of chlorophenoxyacid herbicides in aqueous media, using a novel electrochemical method†
-Improved bioassay method for              Spodoptera litura              chitinase inhibitors using a colloidal chitin powder with a uniform particle size as substrate
+Improved bioassay method for Spodoptera litura chitinase inhibitors using a colloidal chitin powder with a uniform particle size as substrate
 New fluoro intermediates for herbicidal sulfonylureas
-Semiochemical modulation of oviposition behaviour in the gregarious desert locust              Schistocerca gregaria
+Semiochemical modulation of oviposition behaviour in the gregarious desert locust Schistocerca gregaria
 Chemical interactions with the herbicide propanil on propanil-resistant barnyardgrass
 Suppressing oriental fruit fly populations with phloxine B-protein bait sprays
 Synthesis and herbicidal activity of new benzenesulfonylureas
 Herbicidal and biological characteristics of a new benzenesulfonylurea compound K-11451 under submerged paddy conditions
 Chloroacetanilides, oxyacetamides, tetrazolinones: mode of action. 1. Cross resistance and oleic acid incorporation in algal model systems
-Guttation - the basis of an assay for evaluating formulation behaviour              in vivo
+Guttation - the basis of an assay for evaluating formulation behaviour in vivo
 Synthesis and insecticidal activity of 4-perhaloalkoxy (or thioalkyl) benzophenonehydrazone derivatives
 Fate of famoxadone in the environment
 Comparative metabolism of famoxadone in fish, plants and animals
 The sex-specific sulfation of the major metabolite of the novel fungicide cyprodinil in the rat
 The microbial biodegradation of paraquat in soil
 Factors controlling degradation of pesticides in soil
-Molecular cloning and gene expression of two cytochrome P450s from permethrin-resistant              Culex quinquefasciatus              larvae
-Control of clubroot of crucifers by              Phoma glomerata              and its product epoxydon
-Ion regulation in the larval lepidopteran midgut and the response to              Bacillus thuringiensis              δ-endotoxin
+Molecular cloning and gene expression of two cytochrome P450s from permethrin-resistant Culex quinquefasciatus larvae
+Control of clubroot of crucifers by Phoma glomerata and its product epoxydon
+Ion regulation in the larval lepidopteran midgut and the response to Bacillus thuringiensis δ-endotoxin
 Molecular detection of insecticide resistant alleles
 Ligands of the nicotinic acetylcholine receptor as insecticides
 Chemistry, stereochemistry and biological properties of KWG 4168
-Expression and inheritance of nerve insensitivity resistance in larvae of              Helicoverpa armigera              (Lepidoptera: Noctuidae) from China
-Patterns of resistance to organophosphate insecticides in field populations of              Helicoverpa armigera              in Pakistan
+Expression and inheritance of nerve insensitivity resistance in larvae of Helicoverpa armigera (Lepidoptera: Noctuidae) from China
+Patterns of resistance to organophosphate insecticides in field populations of Helicoverpa armigera in Pakistan
 Tobacco anionic peroxidase often increases resistance to insects in different dicotyledonous species
 Natural pesticides and the evolution of food plants
 Bis-pyrimidylpyrazolinones - a new class of acetohydroxy-acid synthase (AHAS) inhibitor
@@ -5367,24 +5356,24 @@ Selective mechanism of action of tebufenozide on lepidopteran cell lines
 Biochemical and biological mode of action of ecdysone agonists on the spruce budworm
 Chemical catalysis of the isomerisation of peroxidising herbicidal thiadiazolidines
 AKD-2023: A novel miticide. Biological activity and mode of action
-Verbena × hybrida              flower volatiles attractive to Western flower thrips,              Frankliniella occidentalis
+Verbena × hybrida flower volatiles attractive to Western flower thrips, Frankliniella occidentalis
 Developing new herbicide models from allelochemicals
 Interactions of picrodendrins and related terpenoids with ionotropic GABA receptors of mammals and insects
-Insecticidal toxins from the bacterium              Photorhabdus luminescens              : gene cloning and toxin histopathology
+Insecticidal toxins from the bacterium Photorhabdus luminescens : gene cloning and toxin histopathology
 Synthesis of a biotin-like phosphonate model compound for (+)-hydantocidin
 Plant cell cultures as a model for the biochemistry of crop selectivity
 Effect of halomethyl-1,3,5-triazines on nitrification of ammonia
 Effects of CGA245704 on wheat physiology
-Effect of the methoxyiminoacetamide fungicide, SSF129, on respiratory activity in              Botrytis cinerea
+Effect of the methoxyiminoacetamide fungicide, SSF129, on respiratory activity in Botrytis cinerea
 Protoporphyrinogen oxidase-inhibiting activity of the new, wheat-selective isoindoldione herbicide, cinidon-ethyl
 Abiotic persistence of atrazine and simazine in water
 The pyrethrins and related compounds. Part XLII:Structure-activity relationships in fluoro-olefin non-ester pyrethroids
-Formulation of vegetable fat pellets with pheromone and              Beauveria bassiana              to control the larger grain borer,              Prostephanus truncatus              (Horn)
+Formulation of vegetable fat pellets with pheromone and Beauveria bassiana to control the larger grain borer, Prostephanus truncatus (Horn)
 Pharmacokinetics of sulfluramid and its metabolite desethylsulfluramid after intravenous and intraruminal administration of sulfluramid to sheep
-Factors affecting toxicity of ferulate towards the cyanobacterium              Oscillatoria              cf              chalybea
-(2              E              ,4              Z              \u2009)-Decadienoic acid and (2              E              ,4              Z              ,7              Z              \u2009)-decatrienoic acid, two herbicidal metabolites from              Streptomyces viridochromogenes              Tü 6105
-Degradation of carbofuran by an enrichment culture developed from carbofuran-treated              Azolla              plot
-Insecticidal activity of daphnane diterpenes from              Lasiosiphon kraussianus              (Meisn) (Thymelaeaceae) roots
+Factors affecting toxicity of ferulate towards the cyanobacterium Oscillatoria cf chalybea
+(2 E ,4 Z \u2009)-Decadienoic acid and (2 E ,4 Z ,7 Z \u2009)-decatrienoic acid, two herbicidal metabolites from Streptomyces viridochromogenes Tü 6105
+Degradation of carbofuran by an enrichment culture developed from carbofuran-treated Azolla plot
+Insecticidal activity of daphnane diterpenes from Lasiosiphon kraussianus (Meisn) (Thymelaeaceae) roots
 Photolysis of chlorsulfuron and metsulfuron-methyl in methanol
 Pesticide remediation in soils and water. P\u2009C Kearney and T Roberts, John Wiley and Sons Ltd, Chichester, UK, 1998. pp XV\u2009+\u2009381, price UK £85.00 ISBN: 0 471 968056
 Qualitative analysis: A guide to best practice. WA Hardcastle, Royal Society of Chemistry, Cambridge, UK, 1998. viii\u2009+\u200923 pp, price US$ 9.50 ISBN: 085404 4620
@@ -5395,49 +5384,49 @@ Integrated pest management\u200a:\u200aIdeals and realities in developing countr
 Natural product chemistry and its part in the defence against insects and fungi in agriculture†
 Development of and future prospects for pyrethroid chemistry
 Deposit structure and efficacy of pesticide application. 1: Interactions between deposit size, toxicant concentration and deposit number
-Deposit structure and efficacy of pesticide application. 2:              Trichoplusia ni              control on cabbage with fipronil
+Deposit structure and efficacy of pesticide application. 2: Trichoplusia ni control on cabbage with fipronil
 Microbial aspects of atrazine biodegradation in relation to history of soil treatment
-Field-simulator study of insecticide resistance conferred by esterase-, MACE- and kdr-based mechanisms in the peach-potato aphid,              Myzus persicae              (Sulzer)
+Field-simulator study of insecticide resistance conferred by esterase-, MACE- and kdr-based mechanisms in the peach-potato aphid, Myzus persicae (Sulzer)
 Ethyl formate, formic acid and ethanol in air, wheat, barley and sultanas: analysis of natural levels and fumigant residues
-Effect of              s              -triazine and phenoxyalkanoic acid herbicides on UDP-glucuronosyltransferase in rat liver microsomes
+Effect of s -triazine and phenoxyalkanoic acid herbicides on UDP-glucuronosyltransferase in rat liver microsomes
 Polydisperse ethoxylated fatty alcohol surfactants as accelerators of cuticular penetration. 2: Separation of effects on driving force and mobility and reversibility of surfactant action
-Isolation and biochemical diagnosis of cell lines of groundnut (              Arachis hypogaea              L) selected on glyphosate†
-Synthesis of substituted benzyl 2-methyl-2-phenylpropyl ethers and their moth-proofing activity on wool against larvae of              Anthrenus fasciatus
+Isolation and biochemical diagnosis of cell lines of groundnut ( Arachis hypogaea L) selected on glyphosate†
+Synthesis of substituted benzyl 2-methyl-2-phenylpropyl ethers and their moth-proofing activity on wool against larvae of Anthrenus fasciatus
 Movement of metolachlor in soil: effect of new organo-clay formulations
 The use of cytochrome P450 genes to introduce herbicide tolerance in crops: a review
 Spatial variation in non-target effects of the insecticides chlorpyrifos, cypermethrin and pirimicarb on Collembola in winter wheat
-Escherichia coli              dihydrodipicolinate synthase and dihydrodipicolinate reductase: kinetic and inhibition studies of two putative herbicide targets
-Quantitative structure-fungicidal activity relationships of              N              -(4-difluoromethoxybenzyl)\xadpyrimidin-4-amines against wheat and barley fungi
+Escherichia coli dihydrodipicolinate synthase and dihydrodipicolinate reductase: kinetic and inhibition studies of two putative herbicide targets
+Quantitative structure-fungicidal activity relationships of N -(4-difluoromethoxybenzyl)\xadpyrimidin-4-amines against wheat and barley fungi
 Human food flavor additives as bird repellents: I. Conjugated aromatic compounds
-Quantitative structure-activity studies of insect growth regulators: XVI. Substituent effects of dibenzoylhydrazines on the insecticidal activity to Colorado potato beetle              Leptinotarsa decemlineata
-Dose confirmation study of a 10\u2009g liter              <sup>−1</sup>              non-aqueous injectable formulation of moxidectin against naturally acquired infestations of cattle lice on cattle in New York
+Quantitative structure-activity studies of insect growth regulators: XVI. Substituent effects of dibenzoylhydrazines on the insecticidal activity to Colorado potato beetle Leptinotarsa decemlineata
+Dose confirmation study of a 10\u2009g liter <sup>−1</sup> non-aqueous injectable formulation of moxidectin against naturally acquired infestations of cattle lice on cattle in New York
 Behaviour of metamitron and hydroxy-chlorothalonil in low-humic sandy soils
 Sorption of isoxaflutole by five different soils varying in physical and chemical properties
 Degradation of oxadiazon in Kalyani alluvial soil
 Monitoring of the photochemical degradation of metamitron and imidacloprid by micellar electrokinetic chromatography and differential-pulse polarography
 Photolysis and hydrolysis of rimsulfuron
-M. Ichinari, M. Masuko, H. Takenaka, R. Hasegawa, T. Ichiba, Y. Hayase and R. Takeda, ‘Structure and fungicidal activities of methoxyiminophenylacetamide derivatives’.              Pesticide Science              <b>55</b>              (3) 1999, 347-349
+M. Ichinari, M. Masuko, H. Takenaka, R. Hasegawa, T. Ichiba, Y. Hayase and R. Takeda, ‘Structure and fungicidal activities of methoxyiminophenylacetamide derivatives’. Pesticide Science <b>55</b> (3) 1999, 347-349
 Spectrophotometric determination of ferbam (iron(III) dimethyldithiocarbamate) in a commercial sample and wheat grains using 4,7-diphenyl-1,10-phenanthroline
 Piperonyl butoxide-mediated inhibition of cytochrome P450-catalysed insecticide metabolism: a rational approach
 A native picrotoxin-resistant GABA-gated chloride channel receptor subtype in cockroach neurons
-Voltage-dependent Na              <sup>+</sup>              channels in pyrethroid-resistant              Culex pipiens              L mosquitoes
+Voltage-dependent Na <sup>+</sup> channels in pyrethroid-resistant Culex pipiens L mosquitoes
 Insect background sodium channel as a new target for scorpion alpha toxin
 Can selective peptides be combined efficiently with agrochemicals? A new approach to insect control
 Characterisation of the relationship between binding sites for imidacloprid and other nicotinic ligands in insects
-Nicotinic acetylcholine receptor chimeras of rat α7 and              Drosophila              SAD reveal species-specific agonist binding regions
+Nicotinic acetylcholine receptor chimeras of rat α7 and Drosophila SAD reveal species-specific agonist binding regions
 Imidazenil, a new drug for the management of convulsions in organophosphate intoxication in rodents
-The action of pyrethroids on the voltage-sensitive calcium channel of              Paramecium tetraurelia
+The action of pyrethroids on the voltage-sensitive calcium channel of Paramecium tetraurelia
 In-vitro study on the effect of pesticides on neuronal activity
 Methods of analysis of dithiocarbamate pesticides: a review
 Bicyclophosphorothionate antagonists exhibiting selectivity for housefly GABA receptors
-Effect of uneven application of azadirachtin on reproductive and anti-feedant behaviour of              Rhyzopertha dominica              (Coleoptera: Bostrichidae)
-Genetic and biochemical mechanisms limiting fipronil toxicity in the LPR strain of house fly,              Musca domestica
-Purification, characterization and comparison of glutathione              S              -transferases from black-grass (              Alopecurus myosuroides              Huds) biotypes
+Effect of uneven application of azadirachtin on reproductive and anti-feedant behaviour of Rhyzopertha dominica (Coleoptera: Bostrichidae)
+Genetic and biochemical mechanisms limiting fipronil toxicity in the LPR strain of house fly, Musca domestica
+Purification, characterization and comparison of glutathione S -transferases from black-grass ( Alopecurus myosuroides Huds) biotypes
 Herbicide safeners: a review
 A comparative molecular field analysis study of obtusifoliol 14α-methyl demethylase inhibitors
-Effects of dimehypo (disodium 2-methylaminotrimethylene di thiosulfonate) on growth and cocooning of the silkworm,              Bombyx mori              (Lepidoptera: Saturnidae)
+Effects of dimehypo (disodium 2-methylaminotrimethylene di thiosulfonate) on growth and cocooning of the silkworm, Bombyx mori (Lepidoptera: Saturnidae)
 Foraging mode: a factor affecting the susceptibility of spiders (Araneae) to insecticide applications
-Diversity of kresoxim-methyl sensitivities in baseline populations of              Venturia inaequalis
+Diversity of kresoxim-methyl sensitivities in baseline populations of Venturia inaequalis
 Reduction in biological efficacy of ethoprophos in a soil from Greece due to enhanced biodegradation: comparing bioassay with laboratory incubation data
 Sorption of vinclozolin and atrazine on four geosorbents
 Adsorption of acetanilide herbicides on soils and its correlation with soil properties
@@ -5447,18 +5436,18 @@ A novel route for the preparation of narrow particle size distribution emulsions
 Factors affecting degradation rates of five triazole fungicides in two soil types: 1. Laboratory incubations
 Factors affecting degradation rates of five triazole fungicides in two soil types: 2. Field studies
 QSAR and 3D-QSAR analysis of structurally diverse ALS inhibitors: sulfonylureas and triazolopyrimidine-2-sulfonamides
-Late blight (              Phytophthora infestans              (Mont) De Bary) development from potato seed-pieces treated with fungicides
-Post-harvest disinfestation of lightbrown apple moth,              Epiphyas postvittana              Walker (Lepidoptera: Tortricidae), with an alkane
+Late blight (Phytophthora infestans (Mont) De Bary) development from potato seed-pieces treated with fungicides
+Post-harvest disinfestation of lightbrown apple moth, Epiphyas postvittana Walker (Lepidoptera: Tortricidae), with an alkane
 Structure-specific detection of plant cuticle bound residues of chlorothalonil by ELISA
 Persistence and biodegradation of vinclozolin in tropical rice soils
 Effect of paraoxon-methyl and parathion-methyl on DNA in human lymphocytes and protective action of vitamin C
 Thermal behaviour and biological activity of pyrethroids in smoke-generating formulations
-Controlled release of aldicarb from carboxymethyl cellulose microspheres:              in vitro              and field applications
+Controlled release of aldicarb from carboxymethyl cellulose microspheres: in vitro and field applications
 Synthesis and structure-activity relationships for anticipated molluscicidal activity of some 2-amino-5-substituted pyridine derivatives
 Ground deposit of pesticides in relation to the cereal canopy density
-Glutamic oxaloacetic transaminase (GOT) and glutamic pyruvic transaminase (GPT) enzyme activities in different tissues of              Sarotherodon mossambicus              (Peters) exposed to a carbamate pesticide, carbaryl
+Glutamic oxaloacetic transaminase (GOT) and glutamic pyruvic transaminase (GPT) enzyme activities in different tissues of Sarotherodon mossambicus (Peters) exposed to a carbamate pesticide, carbaryl
 Degradation of bifenthrin, chlorpyrifos and imidacloprid in soil and bedding materials at termiticidal application rates
-Increased intensity of              tert              -butoxyl radical emission in 4-chloro-2-methylphenoxyacetic acid (MCPA) synthesis
+Increased intensity of tert-butoxyl radical emission in 4-chloro-2-methylphenoxyacetic acid (MCPA) synthesis
 Increased frequency of HLA DR13 in hepatitis C virus carriers with persistently normal ALT levels
 Correlation between ELISA, hemagglutination inhibition, and neutralization tests after vaccination against tick-borne encephalitis
 Temporal and histologic relationships of proliferating cell nuclear antigen and human papillomavirus type 11 in the mouse xenograft system
@@ -6297,7 +6286,6 @@ Multiplex polymerase chain reaction for the evaluation of cytomegalovirus DNA lo
 Immunisation with gamma globulin to Murray Valley encephalitis virus and with an inactivated Japanese encephalitis virus vaccine as prophylaxis against Australian encephalitis: Evaluation in a mouse model
 Antigenic properties and diagnostic potential of recombinant Dobrava virus nucleocapsid protein
 Respiratory syncytial virus: Changes in prevalence of subgroups A and B among Argentinian children, 1990-1996
-Erratum
 DECODE: A Co-operative Program Understanding Environment
 Regression Control Charts to Manage Software Maintenance
 From Software Configuration to Application Management—Improving the Maturity of the Maintenance of Embedded Software
@@ -6384,7 +6372,6 @@ Measure-driven processes and architecture for the empirical evaluation of softwa
 Pattern-based software reengineering: a case study
 Stability assessment of evolving industrial object-oriented frameworks
 Comparison of pleuropneumonectomy and limited surgery for lung cancer with pleural dissemination
-Commentary
 Lack of association between tumor necrosis and hsp-27 expression in primary breast cancer
 Vascular complications of total abdominal perfusion and aortic stop-flow infusion
 A dose-response relationship between the frequency of p53 mutations and tobacco consumption in lung cancer patients
@@ -6432,12 +6419,10 @@ Adenocarcinoma of the uterine cervix: A study of 37 cases
 Potentiation of antitumor activity of mitomycin C by estradiol: Studies of human breast carcinoma xenografts serially transplanted into nude mice
 Clinical manifestations in patients with hereditary nonpolyposis colorectal cancer
 Recurrent esophageal carcinoma after esophagectomy with three-field lymph node dissection
-Commentary
 Pre-, peri-, and postoperative chemotherapy for breast cancer: Is one better than the other?
 Long-term outcome after pneumonectomy for nonsmall cell lung cancer
 Postradiotherapy hypothyroidism: Radiation dose response and chemotherapeutic radiosensitization at less than 40 Gy
 Glutathione and phospholipid depletion of liver tumors after arterial ischemia
-Commentary
 Comparison between the in vitro intrinsic radiation sensitivity of human soft tissue sarcoma and breast cancer cell lines
 Palladium-103: A new radioactive source in the treatment of unresectable carcinoma of the pancreas: A phase I–II study
 Rapid resolution of necrolytic migratory erythema after glucagonoma resection
@@ -6447,7 +6432,6 @@ Guest editorial: The World Federation of Surgical Oncology
 Atraumatic method of intraoperative retrograde transhepatic biliary stent insertion
 Combined angioma and glioma (angioglioma)
 Management for patients with advanced T4 epidermoid carcinoma of the esophagus
-Commentary
 Germ cell testis cancer: 15-year review
 Immunohistochemical analysis of the poorly differentiated stomach adenocarcinoma with medullary growth pattern
 Prospective adjuvant therapy with Mitomycin C and Carmofur (HCFU) for colorectal cancer, 10-year follow-up: Tokai HCFU Study Group, the first study for colorectal cancer
@@ -6472,7 +6456,6 @@ High mortality after abdominal operation in patients with large-volume malignant
 Significance of spontaneous apoptosis during colorectal tumorigenesis
 Guest editorial: How do we apply genetic testing for breast cancer susceptibility to clinical practice?
 Interpectoral nodes in carcinoma of the breast: Requiem or resurrection
-Commentary
 Cis-diamminedichloroplatinum(II) augments expression of tumor-associated antigens on human gastric cancer cell line KATO-3 and increases susceptibility and binding of tumor cells to various cytotoxic effector cells
 Cytolysis of malignant glioma cells by lymphokine-activated killer cells combined with anti-CD3/antiglioma bifunctional antibody and tumor necrosis factor-α
 Malignant humeral bone tumors in children: Excision and reconstruction with the use of rotated clavicle
@@ -6490,14 +6473,11 @@ Serum tumor markers in colorectal cancer staging, grading, and follow-up
 Occurrence of monocytoid B lymphocytes in lymph nodes of patients treated by chemotherapy
 Endobronchial metastatic disease: Analysis of 32 cases
 Immunohistochemical staining for the p53 protein and proliferating cell nuclear antigen in familial clustering of gastric cancer
-Commentary
 Long-term benefits of aggressive treatment for primary colorectal cancer
 Preliminary results of Phase I/II study of high-dose-rate intraoperative radiation therapy for pediatric tumors
 Totally implanted device for long-term intravenous chemotherapy: Experience in 123 adult patients with solid neoplasms
-Commentary
 p53 protein expression in pancreatic tumors and its relationship to clinicopathological factors and prognosis
 Early carcinoma of the gallbladder: An elusive disease
-Commentary
 Characterization of F3II, a sarcomatoid mammary carcinoma cell line originated from a clonal subpopulation of a mouse adenocarcinoma
 How I do it: A new guiding device for safer introduction of the blunt-ended stapler from the anus in low anterior anastomosis
 Editorial: Surgery of sarcomas in the multimodality era
@@ -6925,7 +6905,6 @@ What can we learn from the phenomenon of preferential lymph node metastasis in c
 Reflections on early cancer control efforts
 Apoptosis and cell proliferation in medullary carcinoma of the breast: A comparative study between medullary and non-medullary carcinoma using the TUNEL method and immunohistochemistry
 Reproducibility of a diagnosis of invasive lobular carcinoma
-Commentary
 Nitric oxide synthase expression and nitric oxide production in human colon carcinoma tissue
 Prognostic impact of cyclin-dependent kinase inhibitor p27kip1 in node-positive breast cancer
 Local excision of rectal carcinoma: A safe alternative for more advanced tumors?
@@ -6933,7 +6912,6 @@ Collagen biosynthesis in gastric cancer: Immunohistochemical analysis of prolyl 
 Adrenal incidentaloma: Report of 33 cases
 Malignant mesothelioma of the tunica vaginalis testis: A report of two cases and review of literature
 Useful techniques for the resection of foot melanomas
-Commentary
 Reconstruction of the pelvic floor using absorbable mesh with a bioresorbable membrane (Seprafilm�) after abdominoperineal rectal excision
 Clinical implications of the new biology in the development of melanoma vaccines
 Surgery and cancer: Opinion, evidence, and proof
@@ -6995,22 +6973,16 @@ Another view of the tamoxifen trial
 Use of subatmospheric pressure to prevent doxorubicin extravasation ulcers in a swine model
 Identification of semaphorin E gene expression in metastatic human lung adenocarcinoma cells by mRNA differential display
 Initial experience in a community hospital with sentinel lymph node mapping and biopsy for evaluation of axillary lymph node status in palpable invasive breast cancer
-Commentary
 Case of retroperitoneal dedifferentiated mixed-type liposarcoma: Comparison of proliferative activity in specimens from four operations
-Commentary
 Prevention of recurrent giant-cell tumors of long bones?A new surgical technique
-Commentary
 Gastric transposition with pharyngogastric stapler anastomosis
 Current status of tamoxifen use: An update for the surgical oncologist
 Total vascular exclusion for liver resections: Pros and cons
-Commentary
-Commentary
 Laparoscopic management of women with a family history of ovarian cancer
 Exenterative pelvic surgery
 Triad clinical cancer control program: A partnership for data-based community intervention
 Reviews in pelvic surgery
 Peritoneal washing cytology: Prognostic value of positive findings in patients with gastric carcinoma undergoing a potentially curative resection
-Commentary
 Intraoperative electron beam radiotherapy in recurrent colorectal carcinoma
 Ultrasound-guided lumpectomy of nonpalpable breast cancers: A feasibility study looking at the accuracy of obtained margins
 Comparison between a 2- and 3-grade system in predicting metastatic-free survival in extremity soft-tissue sarcoma
@@ -7048,7 +7020,6 @@ Full-thickness skin grafting
 Abdominoperineal resection by ultrasonic shears without blood loss and ligatures
 Approach to urinary diversion in the surgical patient
 Sarcoma and metastatic carcinoma
-Commentary
 Locally recurrent rectal cancer: Role of composite resection of extensive pelvic tumors with strategies for minimizing risk of recurrence
 Voluminous pleomorphic adenoma of submandibular gland
 In vitro augmentation of antitumor effect in combination with CPT-11 and CDDP for human colorectal cancer
@@ -7057,7 +7028,6 @@ Clinical significance of retinoblastoma protein (pRB) expression in esophageal s
 Transarterial chemoembolization for inoperable hepatocellular carcinoma and postresection intrahepatic recurrence
 Continent gastrostomy
 Hemicorporectomy
-Commentary
 Correlation of c-fos, p53, and PCNA expression with treatment outcome in osteosarcoma
 Children will benefit as pediatric groups merge: A surgical oncologist's perspective
 Do the newer imaging modalities affect management of solid tumors?
@@ -7068,7 +7038,6 @@ Limb-saving surgery, survival, and prognostic factors for osteosarcoma: The Hung
 Expression of matrix metalloproteinases and the tissue inhibitors of metalloproteinases and their local invasiveness and metastasis in Chinese human pancreatic cancer
 The surgical oncologist and cancer education: Mandate or missed opportunity?
 Pilot study on sentinel node biopsy in breast cancer
-Commentary
 Variation in axillary node dissection influences the degree of nodal involvement in breast cancer patients
 Experience in the treatment of synchronous and metachronous carcinoma of the oesophagus and the head and neck
 Evaluation ofp53 alterations in occult lymph node metastases
@@ -7470,7 +7439,6 @@ Photodynamic therapy of primary nonmelanomatous skin tumours of the head and nec
 Investigations on acoustic on-line monitoring of IR laser ablation of burned skin
 Myocardial scarring after transmyocardial laser revascularization: A potential mechanism of clinical improvement?
 Confocal imaging of sebaceous gland hyperplasia in vivo to assess efficacy and mechanism of pulsed dye laser treatment
-Erratum
 Letter to the editor
 Reply
 Eyelid resurfacing
@@ -7515,7 +7483,6 @@ Conventional instrument vs. laser-assisted arthroscopic meniscectomy
 Effect of laser welding with human serum albumin on the expression of P-selectin on platelets
 Use of Q-switched alexandrite laser (755 nm, 100 nsec) for removal of traumatic tattoo of different origins
 Histologic effects of ruby laser hair removal in Japanese patients
-Erratum
 Tetsuzo Inouye, M.D.
 Q-switch laser and tattoo pigments: First results of the chemical and photophysical analysis of 41 compounds
 Safety of cryogen spray cooling during pulsed laser treatment of selected dermatoses
@@ -7568,7 +7535,6 @@ In vitro temperature change at the dentin/pulpal interface by using conventional
 Pulsed Nd:YAG laser irradiation of the tooth pulp in the cat: I. Effect of spot lasing
 A study of aminolevulinic acid-induced protoporphyrin IX fluorescence kinetics in the canine oral cavity
 Corrigendum
-Preface
 Function of topoisomerase II and the consequences of inhibition
 p53 tumor suppressor gene: Implications for iatrogenic cancer and cancer therapy
 Regulation of cellular proliferation effects on alteration of normal signaling pathways
@@ -8222,7 +8188,6 @@ FLAG (fludarabine, high-dose cytarabine, and G-CSF) for refractory and high-risk
 Serum antibody levels and avidities toEscherichia coli O antigens and poliovirus type 1 antigen are increased in children treated for malignant disease
 Safety, efficacy, and acceptability of home intravenous therapy administered by parents of pediatric oncology patients
 131I MIBG therapy in neuroblastoma: Mechanisms, rationale, and current status
-Commentary
 Nephroblastoma with fibroadenomatous structures revisited
 Hereditary persistence of alpha-fetoprotein in a child with testicular germ cell tumor
 The eponym ?Wilms?: A reminder of a surgeon's lifelong contributions to medicine
@@ -8360,9 +8325,7 @@ Monocyte deactivation and its reversal in a patient with chemotherapy-induced le
 Ophthalmic complications of childhood medulloblastoma
 Treatment of early-stage breast cancer in elderly women
 Treatment of mammographically detected minimal breast cancer in an older woman
-Commentary
 Odile Schweisguth, MD, alma mater of pediatric oncology
-Commentary
 Fatal outcome in two girls with Hodgkin disease complicating ataxia-telangiectasia (Louis-Bar syndrome) despite favorable response to modified-dose chemotherapy
 Commentary: Appropriate cancer chemotherapy for ataxia-telangiectasia patients
 Papillary thyroid carcinoma in a thyroglossal duct cyst in a child
@@ -8468,7 +8431,6 @@ Late effects of therapy in 94 patients with localized rhabdomyosarcoma of the or
 Cytotoxic chemotherapy has minimal direct effect on gastric myoelectric activity in children with 5HT3 antagonist prophylaxis
 The surgeon and the child with cancer: A report of the International Society of Pediatric Surgical Oncology (IPSO)
 Wilms tumor: Does tumorectomy leave neoplastic tissue residual?
-Commentary
 Vitamin K prophylaxis and childhood cancer
 Biological stability of RNA isolated from RNAlater-treated brain tumor and neuroblastoma xenografts
 Adult respiratory distress syndrome (ARDS) after chemotherapy
@@ -9041,7 +9003,7 @@ Parental history of hypertension and parental history of diabetes and microvascu
 Dobutamine stress echocardiography: false positive scans in proteinuric patients with Type 1 diabetes mellitus at high risk of ischaemic heart disease
 Onset of Type 1 diabetes mellitus in infancy after enterovirus infections
 Hyperglycaemia due to insulin resistance caused by interferon-γ
-Erratum:  Maturity-onset diabetes of the young: clinical heterogeneity explained by genetic heterogeneity.Diabet Med 1998;15(1): 15-24.
+Erratum: Maturity-onset diabetes of the young: clinical heterogeneity explained by genetic heterogeneity.Diabet Med 1998;15(1): 15-24.
 The demand and financial cost of hospital care for diabetes mellitus and its related complications
 Seventy-five years ago: insulin treatment in Hereford General Hospital
 Immunochemical quantification of crossline as a fluorescent advanced glycation endproduct in erythrocyte membrane proteins from diabetic patients with or without retinopathy
@@ -9100,7 +9062,6 @@ Book Review: Costing Diabetes: the Case for Prevention. IDF Task Force on Diabet
 Effect of different pharmacological formulations of gliclazide on postprandial hyperglycaemia
 Right lateral position reduces intra-individual variation during oral glucose tolerance tests
 Commercially sponsored supplements
-Erratum
 Screening for diabetic retinopathy in the 21st century
 Autoimmunity in diabetic autonomic neuropathy: does the immune system get on your nerves?
 Cow’s milk consumption, disease-associated autoantibodies and Type 1 diabetes mellitus: a follow-up study in siblings of diabetic children
@@ -9152,11 +9113,11 @@ Managing the diabetic patient with acute myocardial infarction: author's reply
 Contributing to improved health through new knowledge: primary care teams and the unanswered questions
 Lost to follow-up: the problem of defaulters from diabetes clinics
 Doing research in general practice: advice for the uninitiated
-The metabolic syndrome: overeating, inactivity, poor compliance or ‘dud’ advice? 
+The metabolic syndrome: overeating, inactivity, poor compliance or ‘dud’ advice?
 The care of diabetes
 Early detection of diabetic retinopathy by a mobile retinal photography service working in partnership with primary health care teams
 The implementation of prompted retinal screening for diabetic eye disease by accredited optometrists in an inner-city district of North London: a quality of care study
-District diabetes registers: more trouble than they're worth? 
+District diabetes registers: more trouble than they're worth?
 Area-wide diabetes care: the Manchester experience with primary health care teams 1991–1997
 Primary Care Diabetes conference, 1997: delivering sensitive diabetes care
 Area-wide diabetes care: the Lanarkshire experience with primary health care teams 1994–1997
@@ -9181,7 +9142,6 @@ Improving glycaemic control with current therapies
 What works? Success stories in Type 2 diabetes mellitus
 What works? The Diabetes Care and Information Center
 Repaglinide – prandial glucose regulator: a new class of oral antidiabetic drugs
-Forward
 Breaking the barriers for improved glycaemic control: primary care and secondary care interface
 Type 2 diabetes mellitus: the grand overview
 The elderly Type 2 diabetic patient: special considerations
@@ -9456,7 +9416,6 @@ Book Review: Coastal Evolution: Late Quaternary Shoreline Morphodynamics edited 
 Book Review: Plate Tectonics and Crustal Evolution, 4th edition, by Kent C. Condie, Butterworth Heinemann, Oxford, 1997. No. of pages: x + 282. Price: £24.99 (pb).
 Book Review: Advances in Hillslope Processes (Volumes 1 and 2) edited by Malcolm G. Anderson and Susan M. Brooks, John Wiley & Sons, Chichester, 1996. No. of pages: xviii + 1306 (Vol. 1). Price: £150.00 (hb). ISBN 0-471-96774-2.
 Book Review: Quaternary and Glacial Geology by Jürgen Ehlers, John Wiley & Sons, Chichester, 1996. No. of pages: 578. Price: £75.00 (hb). ISBN 0-471-95576-0.
-Preface
 Ring permeametry: design, operation and error analysis
 Particle-size analysis of aeolian dusts, soils and sediments in very small quantities using a Coulter Multisizer
 Use of terrestrial photogrammetry for monitoring and measuring bank erosion
@@ -9569,7 +9528,6 @@ The distribution of large woody debris accumulations and pools in relation to wo
 Numerical analysis of coastal cliff failure along the Pembrokeshire Coast National Park, Wales, UK
 Discussion: denudation rates in southeast Northumberland since the Devensian glaciation
 Reply: denudation rates in southeast Northumberland since the Devensian glaciation
-Preface
 Calibrating storage tanks for soil erosion measurement from plots
 Design and field test of a continuously weighing, tipping-bucket assembly for aeolian sand traps
 Generalized linear modelling in geomorphology
@@ -9899,7 +9857,7 @@ Stability of elevated liquid-filled conical tanks under seismic loading, Part II
 Soil slopes under combined horizontal and vertical seismic accelerations
 Non-stationary seismic response of MDOF systems by wavelet transform
 A Bayesian probabilistic approach for structure damage detection
-Discussion:  An approach to the measurement of the potential structural damage of earthquake ground motions
+Discussion: An approach to the measurement of the potential structural damage of earthquake ground motions
 Authors’ reply by L. Cabañas, B. Benito and M. Herráiz
 Analytical and centrifuge studies of pile groups in liquefiable soil before and after site remediation
 Seismic response of multi-layered basins with velocity gradients upon incidence of plane shear waves

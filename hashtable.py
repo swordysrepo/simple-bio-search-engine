@@ -1,10 +1,8 @@
 # hashtable.py
 
-# our current hashtable
-
 import json
 """
-load the json into a hashtable
+load json file into a hashtable
 """
 hashtable = json.loads("output.py")
 print(hashtable)
