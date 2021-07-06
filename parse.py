@@ -1,15 +1,11 @@
 ''' parse the titles.txt file into a json file'''
 
 '''
-parse each line , removing the parenthesis from the beginning and end .
-remove the quotes from beginning and end 
-remove comma from the end
-
 escape all characters
 
 preserve all inner parenthesis
 preserve all - characters
-store it as it is  , in raw format . 
+store it as it is  , in raw format .
 
 
 for each line , split the line into single characters and insert
@@ -19,9 +15,31 @@ export dictionary to json
 clear characters at start and end of line
 
 '''
-# file1 = open("titles.txt","r")
-# print(file1.readlines())
+
 import io
+import pprint
+import json
+x = 0
+hashmap = {}
+
+
 with io.open("titles.txt", "r", encoding="utf-8") as my_file:
-     my_unicode_string = my_file.read() 
-     print(my_unicode_string)
+     #load file in obj
+     lines = my_file.readlines()
+     #read file line by line
+     for line in lines:
+          if x > 10:
+               break
+          # show line parsing
+          print(line)
+          x+=1
+          # split line to a list
+          parse_list = line.split()
+          for word in parse_list:
+               # add word to dictionary
+               hashmap.update({word:[]})
+     # show our hashmap
+     pprint.pprint(hashmap)
+     with open("output.json", "a") as outfile:
+          #dump dict to output file
+        json.dump(hashmap, outfile)
