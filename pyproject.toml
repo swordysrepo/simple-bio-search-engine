@@ -6,7 +6,7 @@ authors = ["Your Name <you@example.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 nltk = "^3.6.2"
 black = "^21.6b0"
 pre-commit = "^2.13.0"
