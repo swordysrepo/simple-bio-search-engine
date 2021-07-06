@@ -18,6 +18,26 @@ clear characters at start and end of line
 # file1 = open("titles.txt","r")
 # print(file1.readlines())
 import io
+import pprint
+x = 0
+# declare dict
+# hashmap = {"words":[]}
+hashmap = {}
+
+
 with io.open("titles.txt", "r", encoding="utf-8") as my_file:
-     my_unicode_string = my_file.read()
-     print(my_unicode_string)
+     lines = my_file.readlines()
+     # print(my_unicode_string)
+     for line in lines:
+          if x > 10:
+               break
+          print(line)     
+          x+=1
+          parse_list = line.split()
+          for word in parse_list:
+               # print(word)
+               # add word to hashmap
+               # hashmap["words"].append({"word":word})
+               hashmap.update({word:[]})
+
+     pprint.pprint(hashmap)
