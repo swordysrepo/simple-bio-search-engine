@@ -4,5 +4,5 @@ import json
 """
 load json file into a hashtable
 """
-hashtable = json.loads("output.py")
+hashtable = json.loads("output.json")
 print(hashtable)
