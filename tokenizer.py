@@ -5,7 +5,7 @@ import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
 my_list=[]
 s=set()
-f = open("MEGA", "r")
+f = open("titles.txt", "r")
 for line in f:
    my_list = word_tokenize(line)
    for word in my_list:
