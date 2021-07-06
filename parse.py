@@ -20,26 +20,26 @@ import io
 import pprint
 import json
 x = 0
-# declare dict
-# hashmap = {"words":[]}
 hashmap = {}
 
 
 with io.open("titles.txt", "r", encoding="utf-8") as my_file:
+     #load file in obj
      lines = my_file.readlines()
-     # print(my_unicode_string)
+     #read file line by line
      for line in lines:
           if x > 10:
                break
+          # show line parsing
           print(line)     
           x+=1
+          # split line to a list
           parse_list = line.split()
           for word in parse_list:
-               # print(word)
-               # add word to hashmap
-               # hashmap["words"].append({"word":word})
+               # add word to dictionary
                hashmap.update({word:[]})
-
+     # show our hashmap
      pprint.pprint(hashmap)
      with open("output.json", "a") as outfile:
+          #dump dict to output file
          json.dump(hashmap, outfile)
